@@ -1,12 +1,12 @@
 name = "JEEFNET Vault Hunters"
 author = "Jeef"
-version = "1.0.5"
+version = "1.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "62e61dada86b91872bf13c0c26d222ecf44256d3890c31e5fecbd8227241a618"
+hash = "46ec1b332b5f61e3df0e76886ad0e6fb9db2ad32624e2a4b576f69a30a525792"
 
 [versions]
 forge = "40.2.9"

@@ -648,16 +648,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:soul_flame"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 20
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:regret_orb"
                 },
                 "minCount": 1,

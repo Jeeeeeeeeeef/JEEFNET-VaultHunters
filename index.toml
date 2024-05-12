@@ -966,6 +966,10 @@ hash = "825f3ae5df1771bd8aeea8e9e5e1e5cdcdb2a1bd1aabbb784daf0a01dcd069be"
 
 [[files]]
 file = "config/the_vault/abilities_gui_styles.json"
+hash = "636cadfcb10b32f937705cc1fc8cd6aa53280fa9cc3777325f60499cc4c92b8c"
+
+[[files]]
+file = "config/the_vault/abilities_gui_styles.json.bak"
 hash = "f3343720d7bc8aaabe311569bbad46e6a6f1259340e58b9511b11fd244ddf0cf"
 
 [[files]]
@@ -1054,11 +1058,11 @@ hash = "243e6a89039da872fbd178c1fe8fa055acf64576687ae60685b76f004c19e991"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
-hash = "a6b20c02c9c37510c74f862aeff14672d299c91691474dfaf25e5516a92916bd"
+hash = "b27d591720e752109782c134b6af43ae3396e19fafa7cfd10501361e115c0777"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json.bak"
-hash = "f975deb0c0fcd325d51eadc867ea2f2d3a0e4e30b217681865e191437f456f9d"
+hash = "a6b20c02c9c37510c74f862aeff14672d299c91691474dfaf25e5516a92916bd"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
@@ -1250,11 +1254,11 @@ hash = "93f5f5f31d622132e8621fe87fa66ff0a43866691f768314f5d06f54d72a19a0"
 
 [[files]]
 file = "config/the_vault/gear/gear_tags.json"
-hash = "55fa20fec65978a831b50c0e1214b74cec62f6e62841759d7d49df61b4348fff"
+hash = "74e125b85a324bc4f4ea2032f49cfddd02bb6312a2d02cf5a2967f1f413947d9"
 
 [[files]]
 file = "config/the_vault/gear/gear_tags.json.bak"
-hash = "79f24d651e1e1b609111ff8562d53f92e0a082ad2012fc51a852c48a745df5ca"
+hash = "55fa20fec65978a831b50c0e1214b74cec62f6e62841759d7d49df61b4348fff"
 
 [[files]]
 file = "config/the_vault/gear_enchantment.json"
@@ -1318,6 +1322,10 @@ hash = "765f047ab907a5d67e66947d65b759642118e31b876648b6eec2c5c10ca9d315"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/jewel.json"
+hash = "63a91e7840ee404e17b296d183bdc9efb6ad8217ea2a42c5e55b21d3a31f2c3e"
+
+[[files]]
+file = "config/the_vault/gear_modifiers/jewel.json.bak"
 hash = "92d4a14a53229f41d56172116ffc28d6bd2875f5b11007340057efb72f1723df"
 
 [[files]]
@@ -10918,19 +10926,19 @@ hash = "dcf2d161601ba964a5524d2859c9473f9368b773d417faf7b55aa3ad0e9c30ca"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
-hash = "5dfc7257714bfa9951c05c66827b1c81abf74bffe82748a9bb7995c48091e574"
+hash = "ca28497de7e6359f9d4d171252419ab9caef8938afd381c40c55bffe1d70c2f9"
 
 [[files]]
 file = "config/the_vault/quest/quests.json.bak"
-hash = "3718a3e9df3955db6a3c9059a8822a4ce975267dad2ae5d1b1a280028f89fc05"
+hash = "5dfc7257714bfa9951c05c66827b1c81abf74bffe82748a9bb7995c48091e574"
 
 [[files]]
 file = "config/the_vault/quest/sky_quests.json"
-hash = "9883c9b60261f28fe2f9adad083dad85f19b5b6dd0a11dc177de3fd0651225a2"
+hash = "dccc1cb817f666a7ae95b92af4074c1ae53f9f7c58828398e99c59f771326f4a"
 
 [[files]]
 file = "config/the_vault/quest/sky_quests.json.bak"
-hash = "3da77f9f7fc7fc43196c45d96588c02d28e68ef1806b37683925b70a1b276b71"
+hash = "9883c9b60261f28fe2f9adad083dad85f19b5b6dd0a11dc177de3fd0651225a2"
 
 [[files]]
 file = "config/the_vault/quests.json"
@@ -11070,11 +11078,11 @@ hash = "5e5e3498cccef01ba588e8b238dcb55d5dee59043e45f402ddbcfcd0ddbec3c6"
 
 [[files]]
 file = "config/the_vault/tool/pulverizing.json"
-hash = "03f913dd274fde7f180afe4919f1715556676877255e1013821873ea75b5fa54"
+hash = "84705a2dbc70570fe2ba54bd97d2e470898beece4afbc7bfe2f7e84bb1a71f54"
 
 [[files]]
 file = "config/the_vault/tool/pulverizing.json.bak"
-hash = "d611e7b9fdc70e7f8022711599d99c1fe6efea3a6128d813a177a84281ca1c2b"
+hash = "03f913dd274fde7f180afe4919f1715556676877255e1013821873ea75b5fa54"
 
 [[files]]
 file = "config/the_vault/tooltip.json"

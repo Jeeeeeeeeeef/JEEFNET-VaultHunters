@@ -1260,26 +1260,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:eternal_soul"
-                },
-                "minCount": 2,
-                "maxCount": 8
-              },
-              "weight": 16
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:soul_flame"
-                },
-                "minCount": 1,
-                "maxCount": 3
-              },
-              "weight": 10
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:mystery_egg"
                 },
                 "minCount": 1,
@@ -1658,16 +1638,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:eternal_soul"
-                },
-                "minCount": 5,
-                "maxCount": 10
-              },
-              "weight": 16
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:mystery_egg"
                 },
                 "minCount": 1,
@@ -2033,16 +2003,6 @@
                 "maxCount": 1
               },
               "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:eternal_soul"
-                },
-                "minCount": 8,
-                "maxCount": 10
-              },
-              "weight": 16
             },
             {
               "value": {
@@ -2442,16 +2402,6 @@
                 "maxCount": 1
               },
               "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:eternal_soul"
-                },
-                "minCount": 8,
-                "maxCount": 10
-              },
-              "weight": 16
             },
             {
               "value": {
@@ -3246,16 +3196,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:soul_flame"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 20
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:empty_flask"
                 },
                 "minCount": 1,
@@ -3809,16 +3749,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:eternal_soul"
-                },
-                "minCount": 4,
-                "maxCount": 8
-              },
-              "weight": 16
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:mystery_egg"
                 },
                 "minCount": 1,
@@ -4248,16 +4178,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:eternal_soul"
-                },
-                "minCount": 5,
-                "maxCount": 12
-              },
-              "weight": 16
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:mystery_egg"
                 },
                 "minCount": 2,
@@ -4677,16 +4597,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:eternal_soul"
-                },
-                "minCount": 8,
-                "maxCount": 12
-              },
-              "weight": 16
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:mystery_egg"
                 },
                 "minCount": 2,
@@ -5102,16 +5012,6 @@
                 "maxCount": 1
               },
               "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:eternal_soul"
-                },
-                "minCount": 8,
-                "maxCount": 10
-              },
-              "weight": 16
             },
             {
               "value": {
@@ -7252,26 +7152,6 @@
                 "maxCount": 1
               },
               "weight": 5
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:eternal_soul"
-                },
-                "minCount": 3,
-                "maxCount": 6
-              },
-              "weight": 16
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:soul_flame"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 20
             },
             {
               "value": {
