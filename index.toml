@@ -11156,7 +11156,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "d7dd310a55619b2ab78a8a687a5694c0640b710b7c759e1d4163f2307ed8539d"
+hash = "3cacdb43b158d024f33eda4364c70c8fe15f02ad93011ef44b2e894f9b709ce3"
 metafile = true
 
 [[files]]
@@ -11426,7 +11426,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "d0e0932773de78b9fa1ec601d5f0814bc9dd39995c14cedca1a16af7188656e1"
+hash = "adcd497ca755e6664b5685ca112f096fc4cdfa795a243600e54447ccf34adfd6"
 metafile = true
 
 [[files]]
@@ -11925,13 +11925,13 @@ hash = "3d529ab31f09f7a607d676479b9ba9a327ff9f6e0a36524c6dca0c327da96d31"
 metafile = true
 
 [[files]]
-file = "mods/the-weirding-gadget.pw.toml"
-hash = "f21ded9e4c1a34d79f7b11e37310b50cf236adb9c416fb83e0b8f8d34e8e0629"
+file = "mods/the-vault-tweaks.pw.toml"
+hash = "3555ae3b0f3df9c3148dbba9e04dcba1c332b0ad47cc3c20061d7c8dcf291a57"
 metafile = true
 
 [[files]]
-file = "mods/the_vault-tweaks.pw.toml"
-hash = "672a25d9dc96c3387f940e248ccf2cdb17189c8d9b93e0c0fd1410afa62e776f"
+file = "mods/the-weirding-gadget.pw.toml"
+hash = "f21ded9e4c1a34d79f7b11e37310b50cf236adb9c416fb83e0b8f8d34e8e0629"
 metafile = true
 
 [[files]]
