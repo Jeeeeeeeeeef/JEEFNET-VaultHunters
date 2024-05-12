@@ -1,13 +1,13 @@
 name = "ShetiPhianCore"
-filename = "shetiphiancore-forge-1.18.2-3.10.17.jar"
+filename = "shetiphiancore-forge-1.18.2-3.10.18.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "580a29e2a3112c94ba7db42e75e016ea02fb28df"
+hash = "7a2b28302dce7267095f3fe29e6750172966385c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4859140
+file-id = 5302602
 project-id = 71738

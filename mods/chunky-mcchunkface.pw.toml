@@ -1,13 +1,13 @@
 name = "Chunky McChunkFace"
-filename = "ChunkyMcChunkFace-1.18.2-0.3.2.jar"
+filename = "ChunkyMcChunkFace-1.18.2-0.3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "486f4aff46c3af5b688e3d114396dd6a2bb63cbd"
+hash = "240740770b8667c191f8e7241f6b8fa9ac0c0d2e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4570894
+file-id = 4990097
 project-id = 863330
