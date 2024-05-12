@@ -1,10 +1,6 @@
 [
   {
     "weight": 7,
-    "reference": "the_vault:vault/rooms/chaos/omega/vendor"
-  },
-  {
-    "weight": 7,
     "reference": "the_vault:vault/rooms/omega/cube"
   },
   {

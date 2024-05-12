@@ -58,9 +58,9 @@
       },
       "unlockCategory": "GRANTED",
       "typeSettings": {
-        "BREW": "{amount:160.0f}",
-        "MIXTURE": "{amount:120.0f}",
-        "POTION": "{amount:80.0f}",
+        "BREW": "{amount:100.0f}",
+        "MIXTURE": "{amount:80.0f}",
+        "POTION": "{amount:60.0f}",
         "VIAL": "{amount:40.0f}"
       }
     },
@@ -122,9 +122,9 @@
       },
       "unlockCategory": "VAULT_DISCOVERY",
       "typeSettings": {
-        "BREW": "{amount:0.8f}",
-        "MIXTURE": "{amount:0.6f}",
-        "POTION": "{amount:0.4f}",
+        "BREW": "{amount:0.5f}",
+        "MIXTURE": "{amount:0.4f}",
+        "POTION": "{amount:0.3f}",
         "VIAL": "{amount:0.2f}"
       }
     },

@@ -6,7 +6,7 @@
       "levels": [
         {
           "level": 0,
-          "probability": 0.041,
+          "probability": 0.05,
           "success": {
             
             "the_vault:ore_larimar[type=white,generated=true]": 400,
@@ -32,7 +32,7 @@
         },
         {
           "level": 11,
-          "probability": 0.492,
+          "probability": 0.06,
           "success": {
             "the_vault:ore_larimar[type=white,generated=true]": 360,
             "the_vault:ore_benitoite[type=white,generated=true]": 110,
@@ -57,7 +57,7 @@
         },
         {
           "level": 23,
-          "probability": 0.0574,
+          "probability": 0.07,
           "success": {
             "the_vault:ore_larimar[type=white,generated=true]": 330,
             "the_vault:ore_benitoite[type=white,generated=true]": 100,
@@ -82,7 +82,7 @@
         },
         {
           "level": 50,
-          "probability": 0.0574,
+          "probability": 0.07,
           "success": {
             "the_vault:ore_larimar[type=white,generated=true]": 270,
             "the_vault:ore_benitoite[type=white,generated=true]": 130,

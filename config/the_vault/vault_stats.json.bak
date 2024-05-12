@@ -1,6 +1,6 @@
 {
-  "percentOfExperienceDealtAsDurabilityDamage": 0.00,
-  "freeExperienceNotDealtAsDurabilityDamage": 10000,
+  "percentOfExperienceDealtAsDurabilityDamage": 0.05,
+  "freeExperienceNotDealtAsDurabilityDamage": 6000,
   "chests": {
     "WOODEN": {
       "COMMON": 20.0,
@@ -196,7 +196,18 @@
     "the_vault:elite_stray": 2600.0,
     "the_vault:elite_witch": 2600.0,
     "the_vault:elite_wither_skeleton": 3000.0,
-    "the_vault:levishroom": 64.0
+    "the_vault:levishroom": 64.0,
+    "the_vault:dungeon_black_widow_spider": 500.0,
+    "the_vault:dungeon_piglin": 320.0,
+    "the_vault:dungeon_piglin_brute": 500.0,
+    "the_vault:dungeon_pillager": 320.0,
+    "the_vault:dungeon_vindicator": 500.0,
+    "the_vault:dungeon_spider": 320.0,
+    "the_vault:dungeon_skeleton": 320.0,
+    "the_vault:t1_zombie": 128.0,
+    "the_vault:t2_zombie": 256.0,
+    "the_vault:t3_zombie": 256.0
+    
   },
   "completion" : {
     "boss": {

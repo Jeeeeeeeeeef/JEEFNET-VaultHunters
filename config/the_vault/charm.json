@@ -2,6 +2,7 @@
   "CHARMS": {
     "the_vault:small_idona": {
       "weight": 100,
+      "god": "IDONA",
       "name": "Noble Idona Charm",
       "particleLoc": "particle/charm/small_idona",
       "color": 16733525,
@@ -15,6 +16,7 @@
     },
     "the_vault:large_idona": {
       "weight": 100,
+      "god": "IDONA",
       "name": "Distinguished Idona Charm",
       "particleLoc": "particle/charm/large_idona",
       "color": 16733525,
@@ -28,6 +30,7 @@
     },
     "the_vault:grand_idona": {
       "weight": 100,
+      "god": "IDONA",
       "name": "Regal Idona Charm",
       "particleLoc": "particle/charm/grand_idona",
       "color": 16733525,
@@ -41,6 +44,7 @@
     },
     "the_vault:majestic_idona": {
       "weight": 100,
+      "god": "IDONA",
       "name": "Majestic Idona Charm",
       "particleLoc": "particle/charm/majestic_idona",
       "color": 16733525,
@@ -55,6 +59,7 @@
     },
     "the_vault:small_tenos": {
       "weight": 100,
+      "god": "TENOS",
       "name": "Noble Tenos Charm",
       "particleLoc": "particle/charm/small_tenos",
       "color": 5636095,
@@ -68,6 +73,7 @@
     },
     "the_vault:large_tenos": {
       "weight": 100,
+      "god": "TENOS",
       "name": "Distinguished Tenos Charm",
       "particleLoc": "particle/charm/large_tenos",
       "color": 5636095,
@@ -81,6 +87,7 @@
     },
     "the_vault:grand_tenos": {
       "weight": 100,
+      "god": "TENOS",
       "name": "Regal Tenos Charm",
       "particleLoc": "particle/charm/grand_tenos",
       "color": 5636095,
@@ -94,6 +101,7 @@
     },
     "the_vault:majestic_tenos": {
       "weight": 100,
+      "god": "TENOS",
       "name": "Majestic Tenos Charm",
       "particleLoc": "particle/charm/majestic_tenos",
       "color": 5636095,
@@ -108,6 +116,7 @@
     },
     "the_vault:small_velara": {
       "weight": 100,
+      "god": "VELARA",
       "name": "Noble Velara Charm",
       "particleLoc": "particle/charm/small_velara",
       "color": 5635925,
@@ -121,6 +130,7 @@
     },
     "the_vault:large_velara": {
       "weight": 100,
+      "god": "VELARA",
       "name": "Distinguished Velara Charm",
       "particleLoc": "particle/charm/large_velara",
       "color": 5635925,
@@ -134,6 +144,7 @@
     },
     "the_vault:grand_velara": {
       "weight": 100,
+      "god": "VELARA",
       "name": "Regal Velara Charm",
       "particleLoc": "particle/charm/grand_velara",
       "color": 5635925,
@@ -147,6 +158,7 @@
     },
     "the_vault:majestic_velara": {
       "weight": 100,
+      "god": "VELARA",
       "name": "Majestic Velara Charm",
       "particleLoc": "particle/charm/majestic_velara",
       "color": 5635925,
@@ -161,6 +173,7 @@
     },
     "the_vault:small_wendarr": {
       "weight": 100,
+      "god": "WENDARR",
       "name": "Noble Wendarr Charm",
       "particleLoc": "particle/charm/small_wendarr",
       "color": 16755200,
@@ -174,6 +187,7 @@
     },
     "the_vault:large_wendarr": {
       "weight": 100,
+      "god": "WENDARR",
       "name": "Distinguished Wendarr Charm",
       "particleLoc": "particle/charm/large_wendarr",
       "color": 16755200,
@@ -187,6 +201,7 @@
     },
     "the_vault:grand_wendarr": {
       "weight": 100,
+      "god": "WENDARR",
       "name": "Regal Wendarr Charm",
       "particleLoc": "particle/charm/grand_wendarr",
       "color": 16755200,
@@ -200,6 +215,7 @@
     },
     "the_vault:majestic_wendarr": {
       "weight": 100,
+      "god": "WENDARR",
       "name": "Majestic Wendarr Charm",
       "particleLoc": "particle/charm/majestic_wendarr",
       "color": 16755200,

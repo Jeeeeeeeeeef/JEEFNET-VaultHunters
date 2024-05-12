@@ -266,8 +266,8 @@
         ]
       },
      
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_illagers_t0",
-        "modifierIdentifier": "the_vault:crafted_damage_illagers",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_champion_t0",
+        "modifierIdentifier": "the_vault:crafted_damage_champion",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
         "craftingCost": [
@@ -283,8 +283,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_illagers_t1",
-        "modifierIdentifier": "the_vault:crafted_damage_illagers",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_champion_t1",
+        "modifierIdentifier": "the_vault:crafted_damage_champion",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -300,8 +300,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_illagers_t2",
-        "modifierIdentifier": "the_vault:crafted_damage_illagers",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_champion_t2",
+        "modifierIdentifier": "the_vault:crafted_damage_champion",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -317,8 +317,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_illagers_t3",
-        "modifierIdentifier": "the_vault:crafted_damage_illagers",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_champion_t3",
+        "modifierIdentifier": "the_vault:crafted_damage_champion",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -334,8 +334,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_spiders_t0",
-        "modifierIdentifier": "the_vault:crafted_damage_spiders",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dungeon_t0",
+        "modifierIdentifier": "the_vault:crafted_damage_dungeon",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
         "craftingCost": [
@@ -351,8 +351,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_spiders_t1",
-        "modifierIdentifier": "the_vault:crafted_damage_spiders",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dungeon_t1",
+        "modifierIdentifier": "the_vault:crafted_damage_dungeon",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -368,8 +368,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_spiders_t2",
-        "modifierIdentifier": "the_vault:crafted_damage_spiders",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dungeon_t2",
+        "modifierIdentifier": "the_vault:crafted_damage_dungeon",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -385,8 +385,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_spiders_t3",
-        "modifierIdentifier": "the_vault:crafted_damage_spiders",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dungeon_t3",
+        "modifierIdentifier": "the_vault:crafted_damage_dungeon",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -402,8 +402,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_undead_t0",
-        "modifierIdentifier": "the_vault:crafted_damage_undead",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_assassin_t0",
+        "modifierIdentifier": "the_vault:crafted_damage_assassin",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
         "craftingCost": [
@@ -419,8 +419,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_undead_t1",
-        "modifierIdentifier": "the_vault:crafted_damage_undead",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_assassin_t1",
+        "modifierIdentifier": "the_vault:crafted_damage_assassin",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -436,8 +436,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_undead_t2",
-        "modifierIdentifier": "the_vault:crafted_damage_undead",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_assassin_t2",
+        "modifierIdentifier": "the_vault:crafted_damage_assassin",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -453,8 +453,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_undead_t3",
-        "modifierIdentifier": "the_vault:crafted_damage_undead",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_assassin_t3",
+        "modifierIdentifier": "the_vault:crafted_damage_assassin",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -470,8 +470,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_nether_t0",
-        "modifierIdentifier": "the_vault:crafted_damage_nether",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_horde_t0",
+        "modifierIdentifier": "the_vault:crafted_damage_horde",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
         "craftingCost": [
@@ -487,8 +487,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_nether_t1",
-        "modifierIdentifier": "the_vault:crafted_damage_nether",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_horde_t1",
+        "modifierIdentifier": "the_vault:crafted_damage_horde",
         "modifierTier": 1,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -504,8 +504,8 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_nether_t2",
-        "modifierIdentifier": "the_vault:crafted_damage_nether",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_horde_t2",
+        "modifierIdentifier": "the_vault:crafted_damage_horde",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -521,8 +521,144 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_damage_nether_t3",
-        "modifierIdentifier": "the_vault:crafted_damage_nether",
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_horde_t3",
+        "modifierIdentifier": "the_vault:crafted_damage_horde",
+        "modifierTier": 3,
+        "unlockCategory": "VAULT_DISCOVERY",
+        "craftingCost": [
+          {
+            "AMOUNT": 32,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 32,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_tank_t0",
+        "modifierIdentifier": "the_vault:crafted_damage_tank",
+        "modifierTier": 0,
+        "unlockCategory": "LEVEL",
+        "craftingCost": [
+          {
+            "AMOUNT": 4,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 4,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_tank_t1",
+        "modifierIdentifier": "the_vault:crafted_damage_tank",
+        "modifierTier": 1,
+        "unlockCategory": "VAULT_DISCOVERY",
+        "craftingCost": [
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_tank_t2",
+        "modifierIdentifier": "the_vault:crafted_damage_tank",
+        "modifierTier": 2,
+        "unlockCategory": "VAULT_DISCOVERY",
+        "craftingCost": [
+          {
+            "AMOUNT": 16,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 16,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_tank_t3",
+        "modifierIdentifier": "the_vault:crafted_damage_tank",
+        "modifierTier": 3,
+        "unlockCategory": "VAULT_DISCOVERY",
+        "craftingCost": [
+          {
+            "AMOUNT": 32,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 32,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dweller_t0",
+        "modifierIdentifier": "the_vault:crafted_damage_dweller",
+        "modifierTier": 0,
+        "unlockCategory": "LEVEL",
+        "craftingCost": [
+          {
+            "AMOUNT": 4,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 4,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dweller_t1",
+        "modifierIdentifier": "the_vault:crafted_damage_dweller",
+        "modifierTier": 1,
+        "unlockCategory": "VAULT_DISCOVERY",
+        "craftingCost": [
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dweller_t2",
+        "modifierIdentifier": "the_vault:crafted_damage_dweller",
+        "modifierTier": 2,
+        "unlockCategory": "VAULT_DISCOVERY",
+        "craftingCost": [
+          {
+            "AMOUNT": 16,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 16,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      { "workbenchCraftIdentifier": "the_vault:crafted_damage_dweller_t3",
+        "modifierIdentifier": "the_vault:crafted_damage_dweller",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [

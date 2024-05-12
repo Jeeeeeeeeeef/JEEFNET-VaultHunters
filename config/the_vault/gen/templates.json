@@ -4496,6 +4496,14 @@
       }
     },
     {
+      "id": "the_vault:vault/treasure_rooms/vendor1",
+      "name": "Vendor 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/treasure_rooms/vendor1.nbt"
+      }
+    },
+    {
       "id": "the_vault:arena/arena1",
       "name": "Arena 1",
       "1.0": {
@@ -8893,6 +8901,134 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/witch_small.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/pillager_large_2",
+      "name": "Pillager Large 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_large_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/pillager_large_3",
+      "name": "Pillager Large 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_large_3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/pillager_medium_2",
+      "name": "Pillager Medium 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_medium_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/piglin_large_2",
+      "name": "Piglin Large 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_large_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/piglin_large_3",
+      "name": "Piglin Large 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_large_3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/piglin_medium_2",
+      "name": "Piglin Medium 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_medium_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/zombie_medium_2",
+      "name": "Zombie Medium 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_medium_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/zombie_large_2",
+      "name": "Zombie Large 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_large_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/zombie_large_3",
+      "name": "Zombie Large 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_large_3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/skeleton_medium_2",
+      "name": "Skeleton Medium 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_medium_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/skeleton_large_2",
+      "name": "Skeleton Large 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_large_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/skeleton_large_3",
+      "name": "Skeleton Large 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_large_3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_medium_2",
+      "name": "Spider Medium 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_medium_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_large_2",
+      "name": "Spider Large 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_large_3",
+      "name": "Spider Large 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large_3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure3/structure3.zip",
+      "name": "Structure 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/structure3.zip"
       }
     }
   ]

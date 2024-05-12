@@ -86,7 +86,26 @@
       "@the_vault:piglin",
       "@the_vault:wither_skeleton",
       "minecraft:piglin_brute",
+      "minecraft:blaze",
       "the_vault:dungeon_piglin"
+    ],
+    "the_vault:mob_type/dungeon": [
+      "@the_vault:dungeon"
+    ],
+    "the_vault:mob_type/assassin": [
+      "@the_vault:assassin"
+    ],
+    "the_vault:mob_type/dweller": [
+      "@the_vault:fighter"
+    ],
+    "the_vault:mob_type/tank": [
+      "@the_vault:tank"
+    ],
+    "the_vault:mob_type/champion": [
+      "{Tags:[\"vault_champion\"]}"
+    ],
+    "the_vault:mob_type/horde": [
+      "@the_vault:horde"
     ],
     "the_vault:horde": [
       "minecraft:husk",
@@ -219,3 +238,4 @@
     ]
   }
 }
+

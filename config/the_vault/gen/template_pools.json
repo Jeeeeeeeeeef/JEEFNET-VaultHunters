@@ -1726,6 +1726,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/treasure_rooms.json"
     },
     {
+      "id": "the_vault:vault/treasure_rooms/vendor_rooms",
+      "name": "Vendor Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/vendor_rooms.json"
+    },
+    {
       "id": "the_vault:arena/arena",
       "name": "Arena",
       "1.0": "config/the_vault/gen/1.0/template_pools/arena/arena.json"

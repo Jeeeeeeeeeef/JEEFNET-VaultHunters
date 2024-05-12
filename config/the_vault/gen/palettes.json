@@ -601,6 +601,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/treasure_rooms/treasure_rooms.json"
     },
     {
+      "id": "the_vault:treasure_rooms/vendor_rooms",
+      "name": "Vendor Rooms",
+      "1.0": "config/the_vault/gen/1.0/palettes/treasure_rooms/vendor_rooms.json"
+    },
+    {
       "id": "the_vault:treasure_rooms/treasure_chest",
       "name": "Treasure Chest",
       "1.0": "config/the_vault/gen/1.0/palettes/treasure_rooms/treasure_chest.json"
@@ -1744,6 +1749,21 @@
       "id": "the_vault:generic/god_altars",
       "name": "God Altars",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/god_altars.json"
+    },
+    {
+      "id": "the_vault:generic/paradox",
+      "name": "Paradox",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/paradox.json"
+    },
+    {
+      "id": "the_vault:raw/gate_placeholder",
+      "name": "Gate Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/raw/gate_placeholder.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/blood_mobs",
+      "name": "Blood Moon Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/blood_mobs.json"
     }
   ]
 }

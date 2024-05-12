@@ -8,10 +8,10 @@
           "level": 0,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl0_v3\"}": 76,
-            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl0_v3\"}": 8,
-            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl0_v3\"}": 8,
-            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl0_v3\"}": 8
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl0\"}": 76,
+            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl0\"}": 8,
+            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl0\"}": 8,
+            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl0\"}": 8
           },
           "failure": {
             "minecraft:air": 1
@@ -21,10 +21,10 @@
           "level": 10,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl0_v3\"}": 76,
-            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl0_v3\"}": 8,
-            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl10_v3\"}": 8,
-            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl0_v3\"}": 8
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl0\"}": 76,
+            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl0\"}": 8,
+            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl10\"}": 8,
+            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl0\"}": 8
           },
           "failure": {
             "minecraft:air": 1
@@ -34,10 +34,10 @@
           "level": 20,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl20_v3\"}": 76,
-            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl20_v3\"}": 8,
-            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl20_v3\"}": 8,
-            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl20_v3\"}": 8
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl20\"}": 76,
+            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl20\"}": 8,
+            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl20\"}": 8,
+            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl20\"}": 8
           },
           "failure": {
             "minecraft:air": 1
@@ -47,10 +47,10 @@
           "level": 30,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30_v3\"}": 76,
-            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl20_v3\"}": 8,
-            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl30_v3\"}": 8,
-            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl30_v3\"}": 8
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30\"}": 76,
+            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl20\"}": 8,
+            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl30\"}": 8,
+            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl30\"}": 8
           },
           "failure": {
             "minecraft:air": 1
@@ -60,13 +60,13 @@
           "level": 50,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30_v3\"}": 1520,
-            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl20_v3\"}": 152,
-            "the_vault:gilded_strongbox{LootTable:\"the_vault:gilded_strongbox_lvl50_v3\"}": 8,
-            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl50_v3\"}": 152,
-            "the_vault:living_strongbox{LootTable:\"the_vault:living_strongbox_lvl50_v3\"}": 8,
-            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl50_v3\"}": 152,
-            "the_vault:ornate_strongbox{LootTable:\"the_vault:ornate_strongbox_lvl50_v3\"}": 8
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30\"}": 1520,
+            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl50\"}": 152,
+            "the_vault:gilded_strongbox{LootTable:\"the_vault:gilded_strongbox_lvl50\"}": 8,
+            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl50\"}": 152,
+            "the_vault:living_strongbox{LootTable:\"the_vault:living_strongbox_lvl50\"}": 8,
+            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl50\"}": 152,
+            "the_vault:ornate_strongbox{LootTable:\"the_vault:ornate_strongbox_lvl50\"}": 8
           },
           "failure": {
             "minecraft:air": 1
@@ -76,13 +76,13 @@
           "level": 65,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30_v3\"}": 1520,
-            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl20_v3\"}": 152,
-            "the_vault:gilded_strongbox{LootTable:\"the_vault:gilded_strongbox_lvl50_v3\"}": 8,
-            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl50_v3\"}": 152,
-            "the_vault:living_strongbox{LootTable:\"the_vault:living_strongbox_lvl50_v3\"}": 8,
-            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl65_v3\"}": 152,
-            "the_vault:ornate_strongbox{LootTable:\"the_vault:ornate_strongbox_lvl65_v3\"}": 8
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30\"}": 1520,
+            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl50\"}": 152,
+            "the_vault:gilded_strongbox{LootTable:\"the_vault:gilded_strongbox_lvl50\"}": 8,
+            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl50\"}": 152,
+            "the_vault:living_strongbox{LootTable:\"the_vault:living_strongbox_lvl50\"}": 8,
+            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl65\"}": 152,
+            "the_vault:ornate_strongbox{LootTable:\"the_vault:ornate_strongbox_lvl65\"}": 8
           },
           "failure": {
             "minecraft:air": 1
@@ -92,13 +92,13 @@
           "level": 70,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30_v3\"}": 1520,
-            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl20_v3\"}": 152,
-            "the_vault:gilded_strongbox{LootTable:\"the_vault:gilded_strongbox_lvl50_v3\"}": 8,
-            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl70_v3\"}": 152,
-            "the_vault:living_strongbox{LootTable:\"the_vault:living_strongbox_lvl70_v3\"}": 8,
-            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl65_v3\"}": 152,
-            "the_vault:ornate_strongbox{LootTable:\"the_vault:ornate_strongbox_lvl65_v3\"}": 8
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30\"}": 1520,
+            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl50\"}": 152,
+            "the_vault:gilded_strongbox{LootTable:\"the_vault:gilded_strongbox_lvl50\"}": 8,
+            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl70\"}": 152,
+            "the_vault:living_strongbox{LootTable:\"the_vault:living_strongbox_lvl70\"}": 8,
+            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl65\"}": 152,
+            "the_vault:ornate_strongbox{LootTable:\"the_vault:ornate_strongbox_lvl65\"}": 8
           },
           "failure": {
             "minecraft:air": 1
@@ -108,13 +108,13 @@
           "level": 80,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30_v3\"}": 912,
-            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl20_v3\"}": 760,
-            "the_vault:gilded_strongbox{LootTable:\"the_vault:gilded_strongbox_lvl50_v3\"}": 8,
-            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl70_v3\"}": 760,
-            "the_vault:living_strongbox{LootTable:\"the_vault:living_strongbox_lvl70_v3\"}": 8,
-            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl65_v3\"}": 760,
-            "the_vault:ornate_strongbox{LootTable:\"the_vault:ornate_strongbox_lvl65_v3\"}": 8
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30\"}": 912,
+            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl50\"}": 760,
+            "the_vault:gilded_strongbox{LootTable:\"the_vault:gilded_strongbox_lvl50\"}": 8,
+            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl70\"}": 760,
+            "the_vault:living_strongbox{LootTable:\"the_vault:living_strongbox_lvl70\"}": 8,
+            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl65\"}": 760,
+            "the_vault:ornate_strongbox{LootTable:\"the_vault:ornate_strongbox_lvl65\"}": 8
           },
           "failure": {
             "minecraft:air": 1
@@ -124,13 +124,13 @@
           "level": 100,
           "probability": 1.0,
           "success": {
-            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30_v3\"}": 608,
-            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl20_v3\"}": 56,
-            "the_vault:gilded_strongbox{LootTable:\"the_vault:gilded_strongbox_lvl50_v3\"}": 8,
-            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl70_v3\"}": 56,
-            "the_vault:living_strongbox{LootTable:\"the_vault:living_strongbox_lvl70_v3\"}": 8,
-            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl65_v3\"}": 56,
-            "the_vault:ornate_strongbox{LootTable:\"the_vault:ornate_strongbox_lvl65_v3\"}": 8
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl30\"}": 608,
+            "the_vault:gilded_chest{LootTable:\"the_vault:gilded_chest_lvl50\"}": 56,
+            "the_vault:gilded_strongbox{LootTable:\"the_vault:gilded_strongbox_lvl50\"}": 8,
+            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl70\"}": 56,
+            "the_vault:living_strongbox{LootTable:\"the_vault:living_strongbox_lvl70\"}": 8,
+            "the_vault:ornate_chest{LootTable:\"the_vault:ornate_chest_lvl65\"}": 56,
+            "the_vault:ornate_strongbox{LootTable:\"the_vault:ornate_strongbox_lvl65\"}": 8
           },
           "failure": {
             "minecraft:air": 1

@@ -402,11 +402,11 @@ hash = "c69177c87ea6f85cd9d3b4a9372cbcd6b389dae4ea7377e370a23626dddc1c8d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "9eacc7c1421ce83ab6eb35fdd50970dd0c18cc296fa35fc0e76c95a125ca11a5"
+hash = "c49c43446c21ea23806ae6d3caf5c365a96654beab895860ef9e5385ef1d45ab"
 
 [[files]]
 file = "config/bcc-common.toml.bak"
-hash = "55f232c85c3fa081e350ff499d2eb7ed13800150ecfe2e0223a41357f1ed47ed"
+hash = "9eacc7c1421ce83ab6eb35fdd50970dd0c18cc296fa35fc0e76c95a125ca11a5"
 
 [[files]]
 file = "config/blockcarpentry-common.toml"
@@ -982,10 +982,18 @@ hash = "70156b2dd3fb4187aa235720df9c163f9caef6fc20cbc98a4002fda9071bcb7d"
 
 [[files]]
 file = "config/the_vault/ability_enhancement_tasks.json"
+hash = "ad1afd379bbd87399d54f5e317e65b0ffd3b1859deab77e458dc136025be40f6"
+
+[[files]]
+file = "config/the_vault/ability_enhancement_tasks.json.bak"
 hash = "ec4c2066579ce397b3e3acfa8c978e8cb8eb1bd6e9b32f8d976b62a076cdb8ca"
 
 [[files]]
 file = "config/the_vault/alchemy_table.json"
+hash = "18ed56f6c0d13060f019e52d096a5ba1dcb3f6f7dcca0d4db4ed0f6bab9850b5"
+
+[[files]]
+file = "config/the_vault/alchemy_table.json.bak"
 hash = "ee8dcf5713ee85cf0fbd799c228ba34cf0a3f7967a21a560190606e191c7f69b"
 
 [[files]]
@@ -1030,6 +1038,10 @@ hash = "f1276b32729dfd8f495ae3655e404c3ca6f85b1f25fb1e4d439853ca603192db"
 
 [[files]]
 file = "config/the_vault/bounty/bounties.json"
+hash = "e5d4b58116a090fb29ee2ce031d8c4aab3a1120e3cc7e0ef944cf51ee7eea773"
+
+[[files]]
+file = "config/the_vault/bounty/bounties.json.bak"
 hash = "cd4017728dc28ff9444d1035db7f53b89aa3478d741d4ce0c7162151abe2262b"
 
 [[files]]
@@ -1042,10 +1054,18 @@ hash = "243e6a89039da872fbd178c1fe8fa055acf64576687ae60685b76f004c19e991"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
+hash = "a6b20c02c9c37510c74f862aeff14672d299c91691474dfaf25e5516a92916bd"
+
+[[files]]
+file = "config/the_vault/bounty/rewards.json.bak"
 hash = "f975deb0c0fcd325d51eadc867ea2f2d3a0e4e30b217681865e191437f456f9d"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
+hash = "6187b7c9d15aadbaf4a60c2809e6359b4ced6f48693bf06cc9ec13a767ad0271"
+
+[[files]]
+file = "config/the_vault/bounty/task/completion.json.bak"
 hash = "155bbf0055b6a39a849037ed2e670fdce2c2dc6da1006adc9814da2a7bda7160"
 
 [[files]]
@@ -1074,14 +1094,26 @@ hash = "9d95e3aa48fb8737a9fd353c217c40456b2c17fd5e87cd544a20ed432d69d936"
 
 [[files]]
 file = "config/the_vault/champions.json"
+hash = "ad1de2b09583c4234e55a76206472485f310a60f187838557452f6e41e86b0a7"
+
+[[files]]
+file = "config/the_vault/champions.json.bak"
 hash = "4046da8d22bed85f3d0e1dede3eda9be250f8aee1ed01f02b709543dc5fa881a"
 
 [[files]]
 file = "config/the_vault/charm.json"
+hash = "1e001a1512120538817fd29945e78ea7f9727d04fda22556f06fcf34b6cb2799"
+
+[[files]]
+file = "config/the_vault/charm.json.bak"
 hash = "2a43d5734809ff34c58019e597d36c7e5fe884b69640163508b8a2406f449c5a"
 
 [[files]]
 file = "config/the_vault/colors.json"
+hash = "10118ab1ddd68288339a922b02e98f93fcc7714f5d3bc20244f64ffc7ba77b8a"
+
+[[files]]
+file = "config/the_vault/colors.json.bak"
 hash = "23b4af0d79887d9c4afa3562cf4d25fe396b13a1aaa9bc63925266de3a351d81"
 
 [[files]]
@@ -1122,14 +1154,18 @@ hash = "045c612ab3f1afcb8fa24ccce24a44627da6afe25116913e85b6f787ad647734"
 
 [[files]]
 file = "config/the_vault/elixir.json"
-hash = "8ab86dd943ae61b57822efc1ad979ea906e3a5034215ac77085392b573546fbe"
+hash = "2becfa3b53863c59ad963b670685c3aaad733c040e05751c5bc0e1c2bfc8474b"
 
 [[files]]
 file = "config/the_vault/elixir.json.bak"
-hash = "f518c6f0221b810f2658f8f3408c253c27ef2f734eea9c21b6d28996ec6b40af"
+hash = "8ab86dd943ae61b57822efc1ad979ea906e3a5034215ac77085392b573546fbe"
 
 [[files]]
 file = "config/the_vault/entity_groups.json"
+hash = "2d6d76b989fdc6d9cf7d72d5255985fcd4d1ae1454c2d1ac533169dd3af977df"
+
+[[files]]
+file = "config/the_vault/entity_groups.json.bak"
 hash = "e99a8ac7d1694831416866188b73d8f9c6d426414b54365033746a34e4fc59cd"
 
 [[files]]
@@ -1190,6 +1226,10 @@ hash = "714e1380a86b311d70543904c2fe5c7ada93fd8e89aadbf4470dbe3fbd97259a"
 
 [[files]]
 file = "config/the_vault/gear/gear_crafting.json"
+hash = "43914588ec67d99984bc9b6f041c5ea7fadc6d7ebbf7c240e2bd8318c1515fe6"
+
+[[files]]
+file = "config/the_vault/gear/gear_crafting.json.bak"
 hash = "e2ce8fed2d3a649d660ff72becfa0f54fba88510244be734a2dec7fa6748fe3b"
 
 [[files]]
@@ -1202,10 +1242,18 @@ hash = "53ff446d8746f248787f61acd80b9678ca38accf45b5df4a49740166c9d752ef"
 
 [[files]]
 file = "config/the_vault/gear/gear_roll_type_pools.json"
+hash = "6c35a89496601c6f64a6b176b8ccad8710af42c0cf8baee960aed4fd4e37644d"
+
+[[files]]
+file = "config/the_vault/gear/gear_roll_type_pools.json.bak"
 hash = "93f5f5f31d622132e8621fe87fa66ff0a43866691f768314f5d06f54d72a19a0"
 
 [[files]]
 file = "config/the_vault/gear/gear_tags.json"
+hash = "55fa20fec65978a831b50c0e1214b74cec62f6e62841759d7d49df61b4348fff"
+
+[[files]]
+file = "config/the_vault/gear/gear_tags.json.bak"
 hash = "79f24d651e1e1b609111ff8562d53f92e0a082ad2012fc51a852c48a745df5ca"
 
 [[files]]
@@ -1214,10 +1262,18 @@ hash = "ca47a2eef288f105d79b8d1dbed7d10f693e64630b60e6a29a4f6b908e1fe19d"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
+hash = "51b3b0a0f07fb4a921fc01bde6b6520ba21f13e386c522f9010fbfe4d98606a1"
+
+[[files]]
+file = "config/the_vault/gear_model_roll_rarities.json.bak"
 hash = "331b46adb79ad7a6b4a7a4f4f796d230eaca01e4f0f9c15f68802cfb6b897388"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
+hash = "4a7d29b4a4660c1061670aa6d11b963c2d6f9467b18fcfce4ca10ec4cdf94d23"
+
+[[files]]
+file = "config/the_vault/gear_modifiers/axe.json.bak"
 hash = "595c75219793a48eb19a624955a4c282e058e777d9c7b7ca9ecc54bc1295dfca"
 
 [[files]]
@@ -1278,7 +1334,11 @@ hash = "fab5a97c131a30f76c7c7a28b6a06e535c0d9b17547b529dc097d86d484396cd"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/sword.json"
-hash = "317060645665e8c6c1cdac559b148c4c85bb78e04cba0e8202b13095360b810f"
+hash = "c407012b10260913c5a5b471c736b5352b59a98c3b9600cee216a7248fa9a0ae"
+
+[[files]]
+file = "config/the_vault/gear_modifiers/sword.json.bak"
+hash = "c407012b10260913c5a5b471c736b5352b59a98c3b9600cee216a7248fa9a0ae"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -1286,6 +1346,10 @@ hash = "20ebcc4a1f5d8343ab1628fb6c8b2cfacac1ab8dfc32db54f83a93db68f4c5b9"
 
 [[files]]
 file = "config/the_vault/gear_workbench/axe.json"
+hash = "3b53f588592d7d00666670c248569fd27dba085312e398996490183d074291c9"
+
+[[files]]
+file = "config/the_vault/gear_workbench/axe.json.bak"
 hash = "ba4fecd49bddd998dee0a640cae103ea9759157335bf8dabe23c7b7a432c2f27"
 
 [[files]]
@@ -1334,6 +1398,10 @@ hash = "78c277fbcf131e32fd4b581e948376d1362fc0227cf52dd6951279da7272921c"
 
 [[files]]
 file = "config/the_vault/gear_workbench/sword.json"
+hash = "f230ccbdd543b5f017c9044d18bac41915d6bf2ac93f9a183e4b8dab0b62e9ad"
+
+[[files]]
+file = "config/the_vault/gear_workbench/sword.json.bak"
 hash = "58520b79df6b71e0345d8f25ec93e421916b7aa67c0b922014f0103f299bdc50"
 
 [[files]]
@@ -1409,6 +1477,22 @@ file = "config/the_vault/gen/1.0/loot_tables/boss_wooden.json"
 hash = "e73667019d05611880c2ca3f0a079934cdcb7f1453d60236393b10300685042a"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/brazier_lvl0.json"
+hash = "db985a5dafebacf0c39a68e85b38dd510f6a744c71269163d996d8452a56be9a"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/brazier_lvl20.json"
+hash = "6158447f83d474999c1e67b534f034dc6ce857ee56de278aea8686081a8cdab0"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/brazier_lvl50.json"
+hash = "c6aedb8c046b2651b7cec09cb1464da1131a6bd29c7af8013c4302f9e8c1261c"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/cake_crate.json"
+hash = "b8965f0604793edcae24f3ab6c53f71998a0c4261472c9756a35472141db6bbb"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/champion_loot_lvl0.json"
 hash = "ce76076cec8e865f83adb45cb66e60bbb0a34b7727e01fdb4e6ff86175aa84b9"
 
@@ -1474,7 +1558,7 @@ hash = "a485a44a7cddfb58ab5f4063c972a75683c6ebdbfaa00a6305b3313429f4c282"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_scav_lvl0.json"
-hash = "1798b8a01b591be445cd8efc6ed1f62de9ed65c0c1a06bc6cac38caf25a7f18d"
+hash = "9e86b7a006dbc68c8a726303aedd5ecb88e0d08412e41c4cd953ceaf90190009"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/completion_scav_lvl20.json"
@@ -1497,6 +1581,10 @@ file = "config/the_vault/gen/1.0/loot_tables/flesh_chest_0.json"
 hash = "d5d251c33b09490b28dd0caa968d97bd5afbfe485fe608648f215462f57a25fe"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_0.json"
+hash = "ec2bb4f5e738dbb4d2517ab18e2f8c738fb2bcec8ca07eb18ffe8e17c52bcf93"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_0_v2.json"
 hash = "87f3aa78d86883c20a8dda9278c8efc443c53a2bb60b855ecf3a6246556d12c5"
 
@@ -1507,6 +1595,10 @@ hash = "ec2bb4f5e738dbb4d2517ab18e2f8c738fb2bcec8ca07eb18ffe8e17c52bcf93"
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_11_v2.json"
 hash = "01936588395479290b52d91fe1f8eb26fc09a266733fea2054d09ddc83bc6719"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_20.json"
+hash = "3ab88ed4bb907a2a2316f32d7ad2abfc69725ec83144397db1c0f2e0a0459895"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_20_v3.json"
@@ -1521,12 +1613,20 @@ file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_35_v2.json"
 hash = "f856636a8b4a419a83ae6c8416defb9b264cbc1e7f4e787ee588681b0a0d1750"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_50.json"
+hash = "75d0ec3f4f126d8933310f3840645a92d07fe06ab6434f7693473a47bfb6f969"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_50_v3.json"
 hash = "75d0ec3f4f126d8933310f3840645a92d07fe06ab6434f7693473a47bfb6f969"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_raw.json"
 hash = "cb00623a60021387760b930581e2ef1df5314257c22290a0f7f4fabe18ad0f49"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/gilded_strongbox_50.json"
+hash = "17496a8719982a1d8ab1f888316a868554349b6930e4a5e35f3fae3d0b36f370"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_strongbox_50_v2.json"
@@ -1541,12 +1641,20 @@ file = "config/the_vault/gen/1.0/loot_tables/hardened_chest_0.json"
 hash = "e00224695d29c48ee81d1efd96a430ca7c2132f4d0ffde34aee4965a9caa5fe4"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/living_chest_0.json"
+hash = "920740a435dc87a97d62452777349974503c8797d79ac0505e57db55610b9a4c"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_0_v2.json"
 hash = "c181bdfc4396e494ea3dea8931b459081e3cc7427be6e50095ea315b339d8655"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_0_v3.json"
 hash = "920740a435dc87a97d62452777349974503c8797d79ac0505e57db55610b9a4c"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/living_chest_10.json"
+hash = "6654090531ad6e8b65f24f09257d3c0e3f42f51f8ac4ae735c42a29450fad28e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_10_v3.json"
@@ -1557,12 +1665,20 @@ file = "config/the_vault/gen/1.0/loot_tables/living_chest_14_v2.json"
 hash = "9e5245b048332aacd303863c7fc03ec2180b4480b2f81c972e7d1d85283995eb"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/living_chest_20.json"
+hash = "2e6034c2eec168b66cd48097edd43156a85537cb48224b81cdf25bec43c37369"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_20_v3.json"
 hash = "2e6034c2eec168b66cd48097edd43156a85537cb48224b81cdf25bec43c37369"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_21_v2.json"
 hash = "f6e8e6e5c14b4652c1cab8a86a7f7b9bc892c6cf8983dd44e72f56dcdbb79fb5"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/living_chest_30.json"
+hash = "e0e629f6d0195bab663c7a24a3c6abf103c336f06070948764e2bee9f8ce7083"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_30_v2.json"
@@ -1573,12 +1689,20 @@ file = "config/the_vault/gen/1.0/loot_tables/living_chest_30_v3.json"
 hash = "361e4777474feb6c676d9d1e6f6e8c20757f928a66732a7d209d4c9ebbf3f0c8"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/living_chest_40.json"
+hash = "0683bb0542d4d9857ea78ec2c7e9f50a5d3f8c68dbd3c02fee490f21ab510079"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_40_v3.json"
 hash = "50bbd0c7905b4c628bbaa3cdf3e98ffd8e556ef0d6daf36de57b79638a57ac86"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_41_v2.json"
 hash = "8842f0d2e087c77cecd10adf47588e9c554511bbb4594920099a4016573aab18"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/living_chest_50.json"
+hash = "f97a9a941cc6026c50098f11d2d84e00683f3f589b09ff2e4c5c3ec928be38a0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_50_v3.json"
@@ -1589,8 +1713,16 @@ file = "config/the_vault/gen/1.0/loot_tables/living_chest_54_v2.json"
 hash = "7fef3ee1d8aaa6434a84b3c6401ce0b4ab1a96ee6b24d18c102c0d91c46f5366"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/living_chest_60.json"
+hash = "9aec4403778204343d4ab47be987263c8eaa39f8958912ff1c60740725348ba9"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_60_v3.json"
 hash = "81128021e4d9d68a72b179ffbde2250808eed8de12a17ecb2903143cb9784ef6"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/living_chest_70.json"
+hash = "1c67895a14e7989665dd25e7b980aaf9c24e6f052344ba7b84e2f801316b67d1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_70_v3.json"
@@ -1605,6 +1737,10 @@ file = "config/the_vault/gen/1.0/loot_tables/living_chest_raw.json"
 hash = "689305674e7552daa67b8b37af67369b502795c76c74eadc39bcbe7623425950"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/living_strongbox_50.json"
+hash = "78db876f307f00634efb86b57dc1e1de35a312864e5261dd9d431b2b4e3363fe"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_strongbox_50_v2.json"
 hash = "d7d8b62a916cc731af55afc3a5b4139cc0bd3861fecf4eabca607543034d1c7f"
 
@@ -1617,12 +1753,20 @@ file = "config/the_vault/gen/1.0/loot_tables/living_strongbox_54_v2.json"
 hash = "58745e728dbc38f93e748a57a89b706b3cfecbef77e1377c0f34337fd8eb2c0d"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/living_strongbox_70.json"
+hash = "654aabdbcc9370e0b47bdfbe323a335d7b5873c85163a8aacac8236eacd10e54"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_strongbox_70_v3.json"
 hash = "9787faa64a7640da5a4fcae9b43e8ea5f2437a6798ebe659d8a23c98d3fc0ecc"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_strongbox_75_v2.json"
 hash = "5d25015ef113acc5657f20edd8193e4ce3a38f7ce70f9db7d049f80ef3361921"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_0.json"
+hash = "007d2120d3d8e50d48f8755759a42b3eeb91112604c24fcb641915abef262b21"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_0_v2.json"
@@ -1634,7 +1778,11 @@ hash = "007d2120d3d8e50d48f8755759a42b3eeb91112604c24fcb641915abef262b21"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_13_v2.json"
-hash = "8f28bd6e2df410bb6ba145a7962f88dee84f4fe5d59bad37b3d8711ebaf4065c"
+hash = "63794351a8144e2d08ebc2cce67333a7cb3b1ccc6907d40248e70b6ef9b31c89"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_20.json"
+hash = "d4cd9df872ae682227fb5a9c80bcbdd768ed52e732d7643b5cffcecb11577ae6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_20_v3.json"
@@ -1642,7 +1790,11 @@ hash = "d4cd9df872ae682227fb5a9c80bcbdd768ed52e732d7643b5cffcecb11577ae6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_27_v2.json"
-hash = "cc095f24248865027940ff540a4e671622fd515f79e99056ff0a03fca08cd701"
+hash = "536457a53b285ca4ad5e16458ca27e2b05edbf123b9685ac890020341ab4b23f"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_30.json"
+hash = "875461d78be51f4c055a0008addf308946baf05749578ad00646eca7abe491cf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_30_v3.json"
@@ -1650,15 +1802,23 @@ hash = "875461d78be51f4c055a0008addf308946baf05749578ad00646eca7abe491cf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_39_v2.json"
-hash = "c813389bac451a586122f07ed8f0b8d1a4f35073667c4373fc8fa6a568df3066"
+hash = "e4363bbeec96f69b1fae47af5e224bc5d1d01e94e722f56ee93649334d774593"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_50.json"
+hash = "9134a7436ea5416dadc1c3f25166fb155a88a56e809cd74c84d2760d488b7e7d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_50_v2.json"
-hash = "3b7de6c74e4522d55d229b513ea635c8e412c0e9297287d9c2e5d25031f77658"
+hash = "b7e21801e27f049256e354c5e9d9d38e56f4f3d9c766244a1197995b8ca4437e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_50_v3.json"
 hash = "9134a7436ea5416dadc1c3f25166fb155a88a56e809cd74c84d2760d488b7e7d"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_65.json"
+hash = "2127d94a1654173534cebbd728e244ce1c149f60e968b692c540cf808b4d3bf9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_65_v2.json"
@@ -1673,12 +1833,20 @@ file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_raw.json"
 hash = "da057f30d0d9b968477c55bfb8326858c6b38bdb4cebac6a4249b7543b62446f"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/ornate_strongbox_50.json"
+hash = "2bbb3237bb269b4c779523d37e65822c3a660d49a5a83538757bb632fad49a15"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_strongbox_50_v2.json"
 hash = "33c611e1ad08862bdf557c5881393f66b512fe110cb66597d04711ed33da9e00"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_strongbox_50_v3.json"
 hash = "2bbb3237bb269b4c779523d37e65822c3a660d49a5a83538757bb632fad49a15"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/ornate_strongbox_65.json"
+hash = "41180a31e4a0afd6f5d74c677b41f41bdb9da97e8b60aa3d23287ee694ee8814"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_strongbox_65_v2.json"
@@ -1709,6 +1877,10 @@ file = "config/the_vault/gen/1.0/loot_tables/treasure_sand_0_withgear.json"
 hash = "a809349f5419d6def812d0d77da8faa682848172d83cd5cb0bd88958b15227db"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_0.json"
+hash = "e77c6282e2782628d90cb97b6b268330da736afce67b534a241e96bafb23f8f4"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_0_v2.json"
 hash = "a5eb2d1d8f1c32a7f57f01dcf79ea7913214bed4c32e2ef643451ebfd99c6094"
 
@@ -1721,12 +1893,20 @@ file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_10_v2.json"
 hash = "5e40cdf289d93f484be70edf06bd43708dc1e346dca5fbb3719e1ee3cbdaffcc"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_20.json"
+hash = "1a49541bfa361a6696b1d52961362109d5591091cefb63e041e01ae89480b82b"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_20_v3.json"
 hash = "1a49541bfa361a6696b1d52961362109d5591091cefb63e041e01ae89480b82b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_24_v2.json"
 hash = "273f361942c832252380353fc1a61c7882acdb40f80214dcbcbb08559c677669"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_30.json"
+hash = "1a49541bfa361a6696b1d52961362109d5591091cefb63e041e01ae89480b82b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_30_v2.json"
@@ -1778,7 +1958,7 @@ hash = "aaf90b444ba5964929d369617385d01293bcf9a4e4879e115273438b9158408d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/gilded_chest_placeholder.json"
-hash = "36738c867b5b9c7aa0998321053f7cceeab9c142337a920c1402dc12d185b2e1"
+hash = "0f18b3b1c61bb7c0ab6ca9003e08b8c77ba92843ca8d148bb893a49c2969466a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/library/base.json"
@@ -1786,7 +1966,7 @@ hash = "2df903ebed73b7b3cd63f18279e5c76ce2649f3e2ca0eed5100461bf04082250"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/living_chest_placeholder.json"
-hash = "836dcad8c0c6a503f6187217e7c22ba2ba39a974e009b4270022bd28bede58c1"
+hash = "243ac573c954ac140875d9075c35f67de49cc9d36503bf0e35d4110a07bad2db"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/mush_room/base.json"
@@ -1794,7 +1974,7 @@ hash = "e9e145fa66fcb15f2d0671901e5a9fa888658674c5f4a2262d7f7e8570e2b5c0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/ornate_chest_placeholder.json"
-hash = "fbe1d59b9ad9f725ee9e54b4048d5a2ad639fa6057def1078ecdfc34394b11ed"
+hash = "48161c0b64ba0081de61086352486839a4aa2ce27cdac6dcfa8527fcffd798e1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/painting/base.json"
@@ -1998,7 +2178,7 @@ hash = "04b481a94eee832a29ed5c0b5d1dc8ed87bcb727f5888b09558c38656b8ae136"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/wooden_chest_placeholder.json"
-hash = "06d24093fd70f297b4d8c56277c687d8d183a5e6bfe7a073538572c46778441b"
+hash = "28bac4b8762de83c1cec0e3fe6c71e38b25f13f54297687271f7a3b435af44ad"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/x-mark/base.json"
@@ -2006,11 +2186,11 @@ hash = "0d7e012f20492404a5dcf9c9785c9db21568b410f935aad9f4f62c2e55da8075"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/x-mark/ornate_chest_placeholder.json"
-hash = "b75215c3f0d18c21f338382f1a051520747dbf402b45c6bb2d24cc4c2e6188f5"
+hash = "2cf9704f132e5fad5fae4347c68da10510d2b34ee08a614098c00a4823df61b9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/cove/base.json"
-hash = "0a3060f3749fd39546884af0a9d53f82d402619be564fc3e04035f44202b150d"
+hash = "5bc0d255d8c7535aafd2889208facd46cc7b137cd57cb2201cd67d8ea627e5e9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/crystal_caves/base.json"
@@ -2046,7 +2226,7 @@ hash = "0db5f3b4dbffe3bb88529b3eebc2ff3ccdd6066e1b15191193b47755c8f8ac0f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/cube/puzzle.json"
-hash = "6f8acb68537bf0903c5a592caa2214e76ee7db192e98a8494195a3bf47d051aa"
+hash = "542cb00d811ac3f2c3115a17d49939b3e9f4f4e3dd7db6b5e5935bc484fc2d6c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dragon/base.json"
@@ -2094,7 +2274,7 @@ hash = "41e89c8ef89f1b6160e5e8dfb5b3e7d2f8c5bb67d0d3d253bc1a3d9d36434120"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/gilded_chest_placeholder.json"
-hash = "4e58a28e4a9b2c0dc12a3ec8a8405600dc3b8f94850fd87a33c542a3468aca79"
+hash = "03fae9cea6fc3c8dddd9b4d29f58e90f46158f5e6ada9fdc5788b394ae182fa2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/hard.json"
@@ -2106,7 +2286,7 @@ hash = "c0b4e1b19360c6de5d71abbe18a95eeca33f48438db856f1cbeebee45af8c61c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/living_chest_placeholder.json"
-hash = "29e096923edc83d8bbb22cd49d2aee1813590681f0559ba8a11bde4df5f632a8"
+hash = "577658c3d452a5e07d0eacee55ff0d70822e4c40d4eb0b0b43ae907c457a5bae"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/normal.json"
@@ -2114,7 +2294,7 @@ hash = "6f38c6a3a112ac2d8ddeef172adb9c29612055da7e35c9a667ebeb17a44dffde"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/ornate_chest_placeholder.json"
-hash = "7174edee3e34bc47b934d61a8e4e9c6928d5ad93a8d695f47640c03a4e3cca42"
+hash = "0eae635cd2fb84c26772aea2b5442e3c11103000a9e8b19125dc3860f973403e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/factory/base.json"
@@ -2150,7 +2330,7 @@ hash = "0936f0d7d5a5ee974df77ddc10bf1f7815548d5dd05210e3fc851832ccdd9fd5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/gate_lock/rooms.json"
-hash = "36877eda823793a637a9fd0e1fbc3953e0892ca7a9535d60fa61227b323cd103"
+hash = "2c4aa8b2bd422d43d5c90d1e77e83d109905352429990bb2b48d7e493199d43a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/air_to_cave_air.json"
@@ -2158,7 +2338,7 @@ hash = "43bd8bb8ff6bf02da7072927aacc5cb0823c946abd3a42702a34590759aaa1cf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/altar_nbt.json"
-hash = "ea38c99e563f8862dcc541347c7bf9d5daf2d3ca82c1bac8bf002238c8cd02bb"
+hash = "cb65e99ada2f585208900910deebaf736901c16d327b193cbf9a4a571a691717"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/altars/rare_ores.json"
@@ -2198,7 +2378,7 @@ hash = "7216241ce7d2decd1c20ae172b12f062c8aa9bf357041569a541f93d76e89d63"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/gilded_chest_placeholder.json"
-hash = "31e87ef651d6d6edc7b9d3964a388530df2989022f0ab244b9eb30ea2c60dfab"
+hash = "944896e625f12964747ee23f6470d38a2d1fa91b740e2f69a60c0fd28e03c690"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/god_altars.json"
@@ -2214,7 +2394,7 @@ hash = "b60799142d206eb5a18581c409f82566d45b71a54d0cd396ce3a9e77e8345da0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/living_chest_placeholder.json"
-hash = "dce0ecb9056e1a8bb78615cebb11de8378afaedb960cb7405365f834f1489378"
+hash = "e0bd7a150b9241276eb8506cfabfaf3e78941d19450dda309eac2e0c2aa65509"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/nether_elite_spawners.json"
@@ -2222,51 +2402,55 @@ hash = "3f65c47b4c693e75d70565ceb44bab253317534ab607383794ba6591947ea543"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder.json"
-hash = "f21658b1cac529b702d8891e563d7f9c3c2f5c6feca71fec730347fdd38f5f3a"
+hash = "3cc61a4269a2fadd2e018b8afb1f6ff972d1a78d6dd15352b275b79f73277c97"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate.json"
-hash = "96f22c6f9ff88c0c2b2dd33ab6bd71ca6825322556a73655ac1f60da35951dba"
+hash = "c686caefdce79775196efe51f71fc095714c8074c27944edd2c90cefb79ebda7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_blood_moon.json"
-hash = "539dbe8e98fee029085346e9fed61bc3268b132965fbc53ee73344d4d2682f0c"
+hash = "853cdd52a9d0ebc500acd618557da4160fb1932f1bb881c1e1402924f6645576"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_nether.json"
-hash = "1e4e54c7e0360819646bcbf51c62be6bf9e771912eb261181051f2df98f7f2c8"
+hash = "10099d955d1b5bf5b67dd650157fb57b7bff939c61f898e7dfa5445fff82f027"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_void.json"
-hash = "5a909816b9767b8fb5a67ea149e348ab7030b3c3e8b85d1e2e43a845339888d8"
+hash = "998800d5aa312cbbe77329e247e7c12f6b1071fbf666d1c35ec5afb14e6d2095"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_white.json"
-hash = "c4b273ef914629dd09e15095e30a83ac49856f79c376c67a095237364e7ca232"
+hash = "0e16706c63702665b6beada3833217f23a8ac295fc7ad8815e8abf9bf9f98e4b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_blood_moon.json"
-hash = "1aaeed275d6f8d45bfc0454c2b6623a268a5101272fc1110abedfdf1127523fe"
+hash = "6096d046756f61fc8a31276f2b6f9bd051d688bc3e2859f6b6cd486cdab1e793"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_nether.json"
-hash = "34e45e5f518e5be6cd723b1d218f64f8a26caeb089f5197ca17addb62d15bfb2"
+hash = "6bb075c40161732dbf72c79a09acdfe4f2615c0197c9214d2c8a17e7705391bf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_void.json"
-hash = "773ee8bce769277c58db143e052c1563cfc5f7686d6d1f36975e5417c8f623c6"
+hash = "4bc19e06cb10a56d8ea8ccc1b634de7776545f62a49bf198fe944cb9de96600e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_white.json"
-hash = "2b7bf22505ede0319c0bda3911a32ef53872c76b941e9dafc5338d32553b4991"
+hash = "04eb19535aca27303bdb8893a43a381fa46baf3fbf84a1833f4eb35d0ca49354"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ornate_chest_placeholder.json"
-hash = "850af62fa3c10ef9e8a6dd56c3edabd88527fbb293865d90d412cca3fca2f881"
+hash = "b453f50f91638b405dd1af685636b62d5a26a4e024b2f7ec6c6b895378d1e3de"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/generic/paradox.json"
+hash = "8f07d7976247f5a9ad3566e409224639988155ee8f15610c12d6059990b82168"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/pylon_placeholder.json"
-hash = "e1c3b183e1bc78deb02239aa86ca6058f812fc92386bd22bbbbb2da2d5a91f80"
+hash = "983f3e84ec49058142d1f2add6442d129c5a26ee141a5725e41a8024242f14e4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/room_base.json"
@@ -2283,6 +2467,10 @@ hash = "48f6d944e249c9fa13a2bbe70fb8b59e6bc7746d8728532d992d37e82c463dee"
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/beach_mobs.json"
 hash = "e6f6f660c0f39d5201ecb0c7840163bff46695e8e9daf7cabe1d617f30f94f55"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/generic/spawners/blood_mobs.json"
+hash = "b806253cf59d2615fbea1956b7f8f7f0ba97c1109b8b9561f9b05da1f69cb640"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/cave_mobs.json"
@@ -2426,15 +2614,15 @@ hash = "115edd27bbe164c25b769dd7ba6808e1f5abab9736b029b8e45daa763a03d62a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/treasure_door_placeholder.json"
-hash = "e9d6406b7c2a11d4081914f12695d2421fc4ed9170c368315358602af0de8f35"
+hash = "8c43901c5a6e90874d8a4440e34a65c6aed958283ccda36831ee9beab2172d2a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/vendor_pedestal_placeholder.json"
-hash = "b4027fe7386db8f709a5fb0bb4954eda3bde870121a56a083494aa09d12b89ae"
+hash = "d51177d7be39bbf2acdbf980c536af39d7dfd1b29901a2fd86b389cc4473778e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/wooden_chest_placeholder.json"
-hash = "fcc332ac8561266845d5e77849867cfdff0a6f184d5f1b89c08271db0db17d7a"
+hash = "ea13c1d05de20fa6bf4cdbc361ba092854b7fb39eab6d87b0f174983d4d6944d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/library/base.json"
@@ -2802,7 +2990,7 @@ hash = "4a7ae8e0cf9eb051e437aca32e904714b4b6a2a0b66055575f3413fc735a4190"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raw/modded_ore_placeholder.json"
-hash = "d8b4cd3683b522d607a262e05ef4c3ddcbe27cd4f68d2c1a110e7f479b4fd382"
+hash = "f6614245452785ad88eebcc95d321be7c15df12b5ffa7964fbb9216eb25d3fb6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/raw/nether/base.json"
@@ -2893,6 +3081,10 @@ file = "config/the_vault/gen/1.0/palettes/treasure_rooms/treasure_rooms.json"
 hash = "0c20bf3ff97f26a768536ddf02712074c94edc866c60a2b9dd69a1a3aefed5df"
 
 [[files]]
+file = "config/the_vault/gen/1.0/palettes/treasure_rooms/vendor_rooms.json"
+hash = "47ac0fa6bfef0d1e9c88180734c310a3e75e7c33041ac3787376dbd7f43711ea"
+
+[[files]]
 file = "config/the_vault/gen/1.0/palettes/trove/base.json"
 hash = "fae3ad697933d6fcf9867d55a3cb32524e6f41f8430248941891e841a39a4530"
 
@@ -2906,7 +3098,7 @@ hash = "870d45e34c046a8a1522c548c3b71ecd6674da74c48f53e0baf53fa72153ffeb"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_blood_moon.json"
-hash = "5eca24d883962256b9411c091d8cfd56862e209be01b81baa1ea963b80bce2f7"
+hash = "fe3d1343fe6b0fc1a73e965a17d37f28c2b400c512be0c8462eedca1ba4e91bd"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_cave.json"
@@ -2982,7 +3174,7 @@ hash = "4d79658d9e5349b560330b4c79257b53a5d19364a0793bc577c4ec506ec9403b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_idona.json"
-hash = "9abdb1eb92be52d56978535bea5d14ebd9d04302a2919441d2415c2baddffe1b"
+hash = "d3f217e41f123b96c44b76bc8b160261db6c495ce475a91b5e9b77025e9722f3"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_intermediary.json"
@@ -3006,7 +3198,7 @@ hash = "76245b2f24ff3834576f88ad9db62aeec570f0f3eababdad040bba8bb5528ca9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_nether_blackstone.json"
-hash = "a305ea4c3a73aaad5dad0d31eb9d27f9cc3b36b3cda73c5491febc76033781db"
+hash = "fe542e399b9bc8a59eda1dcf5f3823b0526400764c0e79b7f638267668eabb7a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_nether_crimson.json"
@@ -3050,7 +3242,7 @@ hash = "5990bd79455021fc9e0014447dd0e63c4b181224835609b10db84384f1be47b2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_season_winter.json"
-hash = "d9ef1400f6c4517fdf9dd2dbf2e04d45700083120f1562ce27f9309450c386fe"
+hash = "6f1ab0285411581dd2f2e3d45b0dab498b0ab6a220d82b774fd563187bd567d7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_shipwreck.json"
@@ -3062,19 +3254,19 @@ hash = "fc753dc0cc95713986ed74c1053fa20e391524e046b15285f4fb47452eb97d65"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_tenos.json"
-hash = "2ec11e8f459a4f98f06eaed3c81b7ffe9b0a3cf59706aac683bf142c73ee46e2"
+hash = "5b2edfe64610660786fd899293a575d8c6c445d97a0e1205c43a746e815bc4ae"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_velara.json"
-hash = "662722ced9b26f2cd05d7dbb7dc339b86604e1b1eb48808d506caa477d85f066"
+hash = "b7af3fc3140a14b58e6ff922fe9c6fa4205be6517d126105e2b63f7d4b07dced"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_void.json"
-hash = "86df3ae272deb8ebbed6720f9a05490d4ccebca18f125bab81d44e2cec4c7792"
+hash = "b81b4857a5bff11c4b52ee067126b11dcb5ae4cd8e29f7880a8b96f0166dff10"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_wendarr.json"
-hash = "7cce1416ac6640900da1537507a1835752cd21bf8cf247b85a5db4fda9ba337b"
+hash = "ef24afb6d88715e4372297d85a81897888e3ae60b50b83b79e77a7754cd46442"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_white.json"
@@ -3090,7 +3282,7 @@ hash = "b469a4b245b6c0f89f9993b98e0c1cd5e92224a7b477cdf861c3fb7eb65ba3c4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/village/portal.json"
-hash = "6db592e00ca558bba18e7df7548255cee8970fea32a42f09c8201855081139c5"
+hash = "8a02c999d6bb6dbb8078b7dfe6a7a0cbb7ca3e3d1dbab1a7557360e9534ce2fa"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/village/silverfish_ambush_spawner_settings.json"
@@ -3110,7 +3302,7 @@ hash = "909d33d4f7a9273bc94a77d07e3ab2104675cf55bcac87e8dac3406f25943fd0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/wildwest/base.json"
-hash = "a91b007719fdaa74584afbcce2233c2c925c625de8118e8f0ae4f88a514b5c0b"
+hash = "cc17e87eceab525381b238a93c3353561d8d650014320ef1ffff547baa3ceb56"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/wildwest/flame_spawner_settings.json"
@@ -3130,7 +3322,7 @@ hash = "9cee5c4e5fd0c1b246e53dbfde1cc2145575002bf299a05b5d10072041f082e3"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/x-mark/ornate_chest_placeholder.json"
-hash = "69c973338c5085fe24a97e8e5456bb7d169bf7791c7a1fef659ed09aa8256215"
+hash = "d43882b7324e203a181d91aea6fa3915c1b638b6c2cb7246e385e63dee5cc133"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/x-mark/redstone_spawner.json"
@@ -5278,7 +5470,7 @@ hash = "73d9e7b94d763d79463860ebdbe63e3ab80cdabc6cc46d43bf34baea70cb5683"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure4/ornate1.nbt"
-hash = "74e73b357a90543bb7259c61e53f44da5a9e97f8064dd76b54dd3ee6d88a8992"
+hash = "fdaaa7f68a70472e57416ec5c679fde17b0228c7b083e58cbbe2a5203417547f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure4/wooden1.nbt"
@@ -7085,8 +7277,20 @@ file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_large.nbt
 hash = "a9a658cecb85495c3afb15d40141becaca715c84576b956011ac903c9368ee72"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_large_2.nbt"
+hash = "4185e96523a9ebf514b7bc24088285b9240ed360a419d8a47f83f53531ddfdc0"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_large_3.nbt"
+hash = "de2af9a2ceae3fc1e3f52afdc90b9b26c9da981143df63e2332d794d24662cc9"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_medium.nbt"
 hash = "371d7cc682909ed603068dfb74b218946cdcfcb94ebabb4e6a8d7c38cbdbf5e4"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_medium_2.nbt"
+hash = "31814fa10cea10594c7ce3d96c2c932550fac067484583358f54d951ca1956b1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_small.nbt"
@@ -7097,8 +7301,20 @@ file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_large.n
 hash = "d89baad64cf8b9a909ba65cf77bf345224fec259e29513871f8f8b6e4b2e3679"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_large_2.nbt"
+hash = "2a504cfd6c3b814d82146bf49659e27f0214b6656a18864aaa6676daeaee5d0a"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_large_3.nbt"
+hash = "f6501271da3c327303ab0b28a57979742d02bf045b93bda162e324cd8d405c5a"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_medium.nbt"
 hash = "cbbc64d24f8654902b74d204934774b28db35923372fc0801c7824680fffc26c"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_medium_2.nbt"
+hash = "11059dea835e1ac8c00886713c62ada38034088b8bcef4ab3833c32be03a8fe1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_small.nbt"
@@ -7109,8 +7325,20 @@ file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_large.n
 hash = "d745b1127068a25d2b4f6df7ec985e1e9270bd5a6e1467cfcf66bd2d340c842b"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_large_2.nbt"
+hash = "a384097b428496a36215f7aa44902684d377e6cbbd775163a67a4a2c83949593"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_large_3.nbt"
+hash = "e2054501a6b4ba38fd198a0437febc6748f8b6d6c75132bb387d1f7eb33a33fe"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_medium.nbt"
 hash = "f837846a16f502821e98c4b19bed78b30bc7ea926d3211f5cf02026b3998fd96"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_medium_2.nbt"
+hash = "a385fd4ab0bd9a980233d8101cf5e776070277f5cb595f08c22b5db7f3975f1c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_small.nbt"
@@ -7129,8 +7357,20 @@ file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large3.nb
 hash = "f396fc83340129cc2cbf09caa3e6521dcc2b598ed1853e18d9b7a01432219c28"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large_2.nbt"
+hash = "e1113f3a345e3c3c1f0ebef21a07b3639789580a28c76dd870bd35332c33d80b"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large_3.nbt"
+hash = "ebc0126447189454836b27d39617d8de9ec5feadc1442072ec1b83502456d82b"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_medium.nbt"
 hash = "b45f33be93e074a203f5b0516332e90d70273249d05dcdadbe32c16b3648dd33"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_medium_2.nbt"
+hash = "dfe389832e5298409f018498418accb1b1643ae3b7afb2317a03457c64f341e8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_small.nbt"
@@ -7153,8 +7393,20 @@ file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_large.nbt
 hash = "66281af533beadd1bc4837e61c04113a5102246afeb582e205fb31ff841c88cb"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_large_2.nbt"
+hash = "3724a4bae75fcce40c15c9b399e8b3d2ad2d7ce47d65218e3082147d2c8e0ee1"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_large_3.nbt"
+hash = "f813850b5f1aa9238752d661604968066e1d2a4ff9044e081e664b4970766070"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_medium.nbt"
 hash = "878bb96d5d767e285231ed58d56e660b828485f8e7cb25fcfe383685f4c14b57"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_medium_2.nbt"
+hash = "6068c467556845f5c3e8f00f55a553b84afc735f5917f43579a51b70c76084a8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_small.nbt"
@@ -7314,7 +7566,7 @@ hash = "59127d670625d57a76bffebae4b347f244b5b9418cb029ad9902531e0dfd0021"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/common/lakes2.nbt"
-hash = "2fb0369ed24613eb057051002e834dbba73ef5387ced0186f46588a883d996a9"
+hash = "0ca01d4ce8b08e3d13b15d30c504070b185210ac8f43e41be8f1e64d6b248340"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/common/lakes3.nbt"
@@ -7418,7 +7670,7 @@ hash = "fb8271fd54c9551609074581b161a7e60ef19a0000737f938abf6c5f5190e0f4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/cove1.nbt"
-hash = "bc209d0452c9d27d04b49afa68c1cea6acfc6b23c549023e9b473de9d794be0b"
+hash = "7f7a2ae269383defa022f4c3c397cbb619a6f7c34a2270d2c72abba51f28f777"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/cozy1.nbt"
@@ -7513,6 +7765,10 @@ file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/treasure1.nbt"
 hash = "11fbf3cceff13d886005686eb52871e8239f0d49db0bd8b47ea16b17991bbd69"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/vendor1.nbt"
+hash = "f477e655ea3c181d01a1f949e3c2552ed49f8c68e5eb21917d8df894af31889e"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/tunnels/tunnel1.nbt"
 hash = "8c45653e2347bbce0229e609a8a5637794ef8cdf99b38cd5bdf04f93c4bab7a7"
 
@@ -7562,7 +7818,7 @@ hash = "e2d1fc7802a76bfb5720d750a00e6e6652d6274ef56ef740dd5b364f89e8acde"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/altars/altars.json"
-hash = "cc0bd43793ad3c10db2509884ecd1a972ec2aa60bfc0cf61dab88df457845501"
+hash = "dea137cc260707c8928ed44994c8adfee9330c489cc57cea25e30357cc88590f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/decor/challenge_digsite/fossil1.json"
@@ -8542,19 +8798,19 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/dungeon_rooms/piglin_rooms.json"
-hash = "56f299389418fffb282913a316ac94c95c8b7380032d835ef91b14c4a9164795"
+hash = "b70fad80162bb6bad322d3c81273c9fae4803a7615ccd7d3a05b1e150c94eaf8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/dungeon_rooms/pillager_rooms.json"
-hash = "a9de3c5184865f6d9ce7c44cf149298c066fcbcbcd735f046bc027251c54d3c4"
+hash = "be94fd66a1b59e351a912589f62d01862b88445170a5bbbc8402719e0e2d0336"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/dungeon_rooms/skeleton_rooms.json"
-hash = "fc478f991a4e42066cf76d70c7d17ccbda970a69e0cae2896e80790a34166e0a"
+hash = "8a550f4a35f49c2b2bed086be1ca951a81c87d9b862bb765b72872b044b4050b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/dungeon_rooms/spider_rooms.json"
-hash = "7b82208f067ec01228cfde17d68134239dc79c370fe202f97d077856805626d2"
+hash = "3562ad70ead37144881ae6087cb60b99c994a272d6bac6e2ed1d55eb425a0b6a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/dungeon_rooms/witch_rooms.json"
@@ -8562,7 +8818,7 @@ hash = "2e263f1cd07bc4a8a8fa0008115cca27c0dd7f5cdee6105e597ec2891a2042f8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/dungeon_rooms/zombie_rooms.json"
-hash = "a763a07b94e39ddbd1dc1f53563f60396e76efc837721384592771ee7ba3a014"
+hash = "56fdecb1e8c9aadc2294fa0a58ed0baaa34b192f1e131a0684610c67cf762d0a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/objectives/objective1.json"
@@ -8818,7 +9074,7 @@ hash = "5f3794469b56b3c002c3d595d0d1513dcd2a01edf88a868931aea3336bb15f04"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/omega_rooms.json"
-hash = "72e5f8cac11ea62922b1bb97abb54e6a6333564814bd3fea7346e5080fbc032f"
+hash = "e1c43f93a7f9097e4553d3673741defc08353392803ca06103c66355146dab67"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/plastic_rooms.json"
@@ -9262,7 +9518,7 @@ hash = "e1d427a9d0088cb4827530dd4959ebbf41236440eaef59ee70db1ec92e684f24"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms.json"
-hash = "d2e50fadfa3e2c652020ac1852523005e4ebb5178817018190c4b2ddc13f2b3c"
+hash = "50c5ffb351ae165bc7181f65d9eb1516a4ff8520254bfca4649140621eb2ccb0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge/crystal_caves.json"
@@ -9626,11 +9882,11 @@ hash = "a49da49fb82b956d2beef141a7bb085a5865f63e9e740541d3fa54cbbf725460"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/resources_lvl0.json"
-hash = "03b4efb79dbaf3702b38fceeef9bbdd2086e787a223e1604779e6a979c3dcb4f"
+hash = "e9937af2a1a35532dac7768d5cc59b9568085c8cf9b871a30e0b92e13bde6da6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/resources_lvl10.json"
-hash = "b5bbca37be5ddb1b5c93a1c2bad857b54241e945edf93b13141e557a62e93fee"
+hash = "e96d3cf707af4996f6bbca4606e5344aec60931984768daab16ceb6f5ff6404c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/raw/resources_lvl20.json"
@@ -10007,6 +10263,10 @@ hash = "c179f9fb3d3c7d64342118efd149213a08c0652cb598c937872c74481f0d11dd"
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/treasure_rooms.json"
 hash = "da9460596a8fd1377b590348bdfc372b936f9b9a00cb4946ad2ee374409536c9"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/vendor_rooms.json"
+hash = "3ec6885d657724b8161184108a00e326ae46c547cb1e096dbd60243d95a60087"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/beach_tunnels.json"
@@ -10510,19 +10770,19 @@ hash = "f636c11801ea5945ff198083954372054e79d8ad060cf00a404b97d1f37dc5f3"
 
 [[files]]
 file = "config/the_vault/gen/loot_tables.json"
-hash = "91ac6ade1611725166d226f7ad7841521105380cc2ceca7da1c1317c39dc5f62"
+hash = "0a95143299bbfe0bd3b8aacb7bc100e405a46d0be0c64952e1417ffe82aa83e2"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "22cb7230382dd95677bde8fa6253b9de35839739c6439c291ffa6e349d255777"
+hash = "c1098ee7b01ccdcd2adbea1fbc91d14dc43da3a60cd5f48d3f4cbeaaeee0075b"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "bfed7f0c8e52b9873a1763155ca2ec1a230232ca1466b2056ddc35db6651eeda"
+hash = "5768bc789c7997a7389d4ca66f13da79c41366a255a9c61ba2b467e92d74503e"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "640445f284abbe788bb24ba5e13665a0fbf51fc3d5e80920a9c6bdd1b592cc79"
+hash = "678c16a659152804bd9993b5f722efd45fc44d12bf3ff07b1bc68abd49fc302f"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
@@ -10538,6 +10798,10 @@ hash = "66c89c85cccd88316325d597592b37815a296ea04dc7d463ff4a1035af755b8c"
 
 [[files]]
 file = "config/the_vault/inscription.json"
+hash = "e2f5adb2f8d8857aafc42bba7497e8dbad08a1b2f29ad127a3958d3be8f89615"
+
+[[files]]
+file = "config/the_vault/inscription.json.bak"
 hash = "10104436d13d9c8719434e210e1e4018ca3a67c69f97942962c3c832f0477cc2"
 
 [[files]]
@@ -10566,10 +10830,18 @@ hash = "0b62f8fef705fde960907f2b82ad25a803b1303ac349565a0db6efce2010a567"
 
 [[files]]
 file = "config/the_vault/loot_info.json"
+hash = "b1757680118a329e9681bac02901285920b30e95fed0d8b2547d739665b08e04"
+
+[[files]]
+file = "config/the_vault/loot_info.json.bak"
 hash = "a3a6b64ffedc113bfd87abac54461152ddc58dbf5bcc7904733e6d68febf7bd0"
 
 [[files]]
 file = "config/the_vault/loot_table.json"
+hash = "e7f75a2be96678dca70ab500c9764d20ea2f3f7697bdfdac15bb18572a34fd42"
+
+[[files]]
+file = "config/the_vault/loot_table.json.bak"
 hash = "202dc4ca826c17ddc783d3062720d6a4ebe5c0de54c2998548ccca6a028da8a5"
 
 [[files]]
@@ -10674,6 +10946,10 @@ hash = "e5af8bf4938633714bc4bb41e96f6f8e42f8f130caf0ce6f6b299fbef8fb0014"
 
 [[files]]
 file = "config/the_vault/recipes/inscription_recipes.json"
+hash = "a991fe8ed4c6692a2b90bd1bc86b5f51452a98fc3812ac19aabcbadb9cd5b6b2"
+
+[[files]]
+file = "config/the_vault/recipes/inscription_recipes.json.bak"
 hash = "0aa8f06d68f519ffde88e0a36f0f4fd181100b117d5cf54ae3e8964fbb70bff1"
 
 [[files]]
@@ -10722,6 +10998,10 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
+hash = "0cd55574d4f63be9ef4f486875749fc5e87686aa864437f564310f46ee4be510"
+
+[[files]]
+file = "config/the_vault/shop_pedestal.json.bak"
 hash = "ed872f58a8c5be6846bca2b1c57b947f7d639e57b269b5a56dc40790932bbe7a"
 
 [[files]]
@@ -10834,11 +11114,11 @@ hash = "a9e0b6ddb664e04003a844c0c032f5afb586902c9ebca80da6d128dd814c2906"
 
 [[files]]
 file = "config/the_vault/trinket.json"
-hash = "04e4671054a11ffbb0b1859204e2d796bbfc6b7110adee6223356f592e3e4b19"
+hash = "3d736831b7a2a80e722496beb1c3c235742e8092f85610d43d34cfe780ab6ff9"
 
 [[files]]
 file = "config/the_vault/trinket.json.bak"
-hash = "4b5df583799bba3c7a0394588526bdb7adeaa0d0377468a280d0d23328916333"
+hash = "04e4671054a11ffbb0b1859204e2d796bbfc6b7110adee6223356f592e3e4b19"
 
 [[files]]
 file = "config/the_vault/unidentified_relic_fragments.json"
@@ -10870,6 +11150,10 @@ hash = "f29f08f5ed21ba2594d90d1ac69c00544ab84ea9315829f1f5d8a71fbd4944a6"
 
 [[files]]
 file = "config/the_vault/vault_boss.json"
+hash = "c7a78dceaa1b7c45c1460a9b5c5079e034d75cd4477a79a4dc08a3dceac575ae"
+
+[[files]]
+file = "config/the_vault/vault_boss.json.bak"
 hash = "95d327d7b45cf37d511a58cd2dbd31536872d7cd8d14c85b262ef1d8f3ecb41c"
 
 [[files]]
@@ -10894,6 +11178,10 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
+hash = "827255b2338bd1d7c916a5a6e39992fb62871e0b88def789a0841a41cf8b4632"
+
+[[files]]
+file = "config/the_vault/vault_crystal.json.bak"
 hash = "14db6d33f6e0c0fd6a08da65808093088c7c168a2a86829b318d965af9df13fe"
 
 [[files]]
@@ -10910,6 +11198,10 @@ hash = "0527bbdc3ea0ad8354ca11e47b9e2ec50a6f611434bc9128867cbe31c29a681e"
 
 [[files]]
 file = "config/the_vault/vault_entities.json"
+hash = "dfe79ce382793b59bc53b76560796bda8a2f45d41e3b69e475ec063a64c78a7f"
+
+[[files]]
+file = "config/the_vault/vault_entities.json.bak"
 hash = "63da69e0c489e93a456c5d228b492eb6d109eba9474d3388f94a53c434161fcf"
 
 [[files]]
@@ -10966,6 +11258,10 @@ hash = "d16920dee352b5db29a1c647774aec01e6b39ddd5ba786bb9efb44c2e3f4fd5d"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
+hash = "51bdab7733b8b832386d3f7047298c98273d3fd032f494d565a2109f0b01b37d"
+
+[[files]]
+file = "config/the_vault/vault_modifiers.json.bak"
 hash = "5430910ba00c5804841145d61d970087d7cdf2946a61f7b5d57415a2f762147f"
 
 [[files]]
@@ -10982,6 +11278,10 @@ hash = "a9f3e9651234cf54170739a17fdd4f2fe88893edfa4eb456e22f714167ead757"
 
 [[files]]
 file = "config/the_vault/vault_recycler.json"
+hash = "7acfbeb9f94eefde06cf0f2f0c96c5da2c780ab2501911ff8fb4607aa59e3547"
+
+[[files]]
+file = "config/the_vault/vault_recycler.json.bak"
 hash = "bb25e07b050fd84e306fe483dbb0241e8c3c571dce0b29fadb032fbdedda29e2"
 
 [[files]]
@@ -10990,11 +11290,11 @@ hash = "5d17dee8ae4769e3bbcfa2c6967447200a45bdcc5a91bd1f7737eb9f73f913c5"
 
 [[files]]
 file = "config/the_vault/vault_stats.json"
-hash = "01be58a6d612098178eb4d2cb61d320b1ebaf8eb22b16e2c3ec3712ce3f4bd10"
+hash = "a42090935df21cdf032432c544cd15e22154257afc42ef465e45c4dd9ce97d04"
 
 [[files]]
 file = "config/the_vault/vault_stats.json.bak"
-hash = "8549f1e83e7d5bbd31e3b83bb2581a76a142a041499f41f3955c4eb408b0131e"
+hash = "a42090935df21cdf032432c544cd15e22154257afc42ef465e45c4dd9ce97d04"
 
 [[files]]
 file = "config/the_vault/vault_stew.json"

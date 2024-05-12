@@ -2219,11 +2219,11 @@
               "time": {
                 "type": "uniform",
                 "min": 200,
-                "max": 1200
+                "max": 2200
               },
               "instability": {
                 "type": "uniform",
-                "min": 0.00,
+                "min": 0.0,
                 "max": 0.02
               },
               "model": {
@@ -2233,60 +2233,6 @@
               }
             },
             "weight": 16
-          },
-          {
-            "value": {
-              "entries": [
-              ],
-              "completion": {
-                "type": "uniform",
-                "min": 0.01,
-                "max": 0.03
-              },
-              "time": {
-                "type": "uniform",
-                "min": 800,
-                "max": 2000
-              },
-              "instability": {
-                "type": "uniform",
-                "min": 0.00,
-                "max": 0.02
-              },
-              "model": {
-                "type": "uniform",
-                "min": 0,
-                "max": 0
-              }
-            },
-            "weight": 8
-          },
-          {
-            "value": {
-              "entries": [
-              ],
-              "completion": {
-                "type": "uniform",
-                "min": 0.06,
-                "max": 0.16
-              },
-              "time": {
-                "type": "uniform",
-                "min": 200,
-                "max": 600
-              },
-              "instability": {
-                "type": "uniform",
-                "min": 0.00,
-                "max": 0.02
-              },
-              "model": {
-                "type": "uniform",
-                "min": 0,
-                "max": 0
-              }
-            },
-            "weight": 8
           }
         ]
       }

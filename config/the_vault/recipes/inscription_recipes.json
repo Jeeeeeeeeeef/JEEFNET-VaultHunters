@@ -9,12 +9,7 @@
       },
       "inputs": [
         {
-          "AMOUNT": 1,
-          "ITEM": "the_vault:vault_gold",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 8,
+          "AMOUNT": 16,
           "ITEM": "the_vault:inscription_piece",
           "NBT": "{}"
         }
@@ -225,12 +220,12 @@
       },
       "inputs": [
         {
-          "AMOUNT": 32,
+          "AMOUNT": 64,
           "ITEM": "the_vault:inscription_piece",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 4,
+          "AMOUNT": 16,
           "ITEM": "the_vault:gem_echo",
           "NBT": "{}"
         }
@@ -255,7 +250,7 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 8,
+          "AMOUNT": 16,
           "ITEM": "the_vault:inscription_piece",
           "NBT": "{}"
         }
@@ -305,7 +300,7 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 8,
+          "AMOUNT": 16,
           "ITEM": "the_vault:inscription_piece",
           "NBT": "{}"
         }
@@ -355,7 +350,7 @@
           "NBT": "{}"
         },
         {
-          "AMOUNT": 8,
+          "AMOUNT": 16,
           "ITEM": "the_vault:inscription_piece",
           "NBT": "{}"
         }

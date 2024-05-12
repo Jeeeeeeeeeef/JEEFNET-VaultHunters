@@ -316,6 +316,54 @@
       "color": 16757889,
       "weight": 10
     },
+    "DamageChampion": {
+      "tags": [
+        "focusDamageChampion"
+      ],
+      "display": "Champion Damage",
+      "color": 6213132,
+      "weight": 10
+    },
+    "DamageDungeon": {
+      "tags": [
+        "focusDamageDungeon"
+      ],
+      "display": "Dungeon Damage",
+      "color": 823502,
+      "weight": 10
+    },
+    "DamageTank": {
+      "tags": [
+        "focusDamageTank"
+      ],
+      "display": "Tank Damage",
+      "color": 13513996,
+      "weight": 10
+    },
+    "DamageHorde": {
+      "tags": [
+        "focusDamageHorde"
+      ],
+      "display": "Horde Damage",
+      "color": 13094412,
+      "weight": 10
+    },
+    "DamageAssassin": {
+      "tags": [
+        "focusDamageAssassin"
+      ],
+      "display": "Assassin Damage",
+      "color": 11881191,
+      "weight": 10
+    },
+    "DamageDweller": {
+      "tags": [
+        "focusDamageDweller"
+      ],
+      "display": "Dweller Damage",
+      "color": 15895195,
+      "weight": 10
+    },
     "ItemQuantity": {
       "tags": [
         "focusItemQuantity"

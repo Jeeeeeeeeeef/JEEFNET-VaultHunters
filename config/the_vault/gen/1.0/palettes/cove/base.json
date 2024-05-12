@@ -2,6 +2,14 @@
   "tile_processors": [
     {
       "type": "weighted_target",
+      "target": "minecraft:gold_block",
+      "output": {
+        "the_vault:fools_gold": 25,
+        "minecraft:air": 75
+      }
+    },
+    {
+      "type": "weighted_target",
       "target": "the_vault:placeholder[type=coin_stacks]",
       "output": {
         "the_vault:placeholder[type=coin_stacks]": 35,

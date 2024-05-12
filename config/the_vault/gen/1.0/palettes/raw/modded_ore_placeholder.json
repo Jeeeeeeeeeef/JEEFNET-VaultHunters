@@ -24,7 +24,7 @@
             "thermal:deepslate_silver_ore": 7,
             "thermal:deepslate_nickel_ore": 7,
             "thermal:deepslate_apatite_ore": 8,
-            "powah:deepslate_uraninite_ore": 5
+            "rftoolsbase:dimensionalshard_overworld": 1
           },
           "failure": {
             "minecraft:deepslate": 1

@@ -5,7 +5,7 @@
       "COMPLETION_CRATE": {
         "boss": "the_vault:completion_kill_lvl0",
         "scavenger": "the_vault:completion_scav_lvl0",
-        "cake": "the_vault:completion_lvl0",
+        "cake": "the_vault:cake_crate",
         "monolith": "the_vault:completion_mono_lvl0",
         "elixir": "the_vault:completion_elix_lvl0",
         "paradox": "the_vault:completion_paradox"
@@ -20,7 +20,7 @@
       "COMPLETION_CRATE": {
         "boss": "the_vault:completion_kill_lvl0",
         "scavenger": "the_vault:completion_scav_lvl0",
-        "cake": "the_vault:completion_lvl0",
+        "cake": "the_vault:cake_crate",
         "monolith": "the_vault:completion_mono_lvl0",
         "elixir": "the_vault:completion_elix_lvl0",
         "paradox": "the_vault:completion_paradox"
@@ -35,7 +35,7 @@
       "COMPLETION_CRATE": {
         "boss": "the_vault:completion_kill_lvl20",
         "scavenger": "the_vault:completion_scav_lvl20",
-        "cake": "the_vault:completion_lvl27",
+        "cake": "the_vault:cake_crate",
         "monolith": "the_vault:completion_mono_lvl20",
         "elixir": "the_vault:completion_elix_lvl20",
         "paradox": "the_vault:completion_paradox"
@@ -50,7 +50,7 @@
       "COMPLETION_CRATE": {
         "boss": "the_vault:completion_kill_lvl20",
         "scavenger": "the_vault:completion_scav_lvl20",
-        "cake": "the_vault:completion_lvl27",
+        "cake": "the_vault:cake_crate",
         "monolith": "the_vault:completion_mono_lvl20",
         "elixir": "the_vault:completion_elix_lvl20",
         "paradox": "the_vault:completion_paradox"

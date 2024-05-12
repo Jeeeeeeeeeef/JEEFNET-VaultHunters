@@ -80,8 +80,7 @@
         "{FullName: \"Library Room\", RoomReference: \"the_vault:vault/rooms/omega/library\"}": 10,
         "{FullName: \"Mine Room\", RoomReference: \"the_vault:vault/rooms/omega/mine\"}": 4,
         "{FullName: \"Mush Room\", RoomReference: \"the_vault:vault/rooms/omega/mush_room\"}": 10,
-        "{FullName: \"Painting Room\", RoomReference: \"the_vault:vault/rooms/omega/painting\"}": 10,
-        "{FullName: \"Vendor Room\", RoomReference: \"the_vault:vault/rooms/omega/vendor\"}": 4
+        "{FullName: \"Painting Room\", RoomReference: \"the_vault:vault/rooms/omega/painting\"}": 10
       }
     }
   ],

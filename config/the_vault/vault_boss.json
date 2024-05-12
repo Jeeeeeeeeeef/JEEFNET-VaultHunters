@@ -27,7 +27,13 @@
               "Name": "groundslam"
             }
           ],
-          "RageAttacks": []
+          "RageAttacks": [
+            {
+              "Multiplier": 0.9,
+              "Weight": 2.0,
+              "Name": "aoeclose"
+            }
+          ]
         }
         },
         { "stageName": "wendarr",
@@ -66,7 +72,13 @@
               "Name": "groundslam"
             }
           ],
-          "RageAttacks": []
+          "RageAttacks": [
+            {
+              "Multiplier": 0.9,
+              "Weight": 2.0,
+              "Name": "aoeclose"
+            }
+          ]
         }
         },
         { "stageName": "velara",
@@ -175,7 +187,8 @@
             "MinGroupCount": 28,
             "MaxGroupCount": 28,
             "MaxMobCount": 16,
-            "MinMobCount": 14
+            "MinMobCount": 14,
+            "maxMobsAliveBeforeNextSpawn": 32
           }
         },
         { "stageName": "generic3",
@@ -201,7 +214,13 @@
               "Name": "groundslam"
             }
           ],
-          "RageAttacks": []
+          "RageAttacks": [
+            {
+              "Multiplier": 0.9,
+              "Weight": 2.0,
+              "Name": "aoeclose"
+            }
+          ]
         }
         },
         { "stageName": "tenos",
@@ -293,7 +312,13 @@
               "Name": "groundslam"
             }
           ],
-          "RageAttacks": []
+          "RageAttacks": [
+              {
+                "Multiplier": 0.9,
+                "Weight": 2.0,
+                "Name": "aoeclose"
+              }
+          ]
         }
         },
         { "stageName": "idona",
@@ -327,6 +352,11 @@
                 "Multiplier": 1.0,
                 "Weight": 1.0,
                 "Name": "throw"
+              },
+              {
+                "Multiplier": 1.1,
+                "Weight": 2.0,
+                "Name": "aoeclose"
               }
             ],
             "MaxBaseDamageMultiplier": 3.3

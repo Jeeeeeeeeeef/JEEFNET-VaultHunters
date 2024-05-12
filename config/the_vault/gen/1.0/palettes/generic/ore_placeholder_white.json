@@ -6,7 +6,7 @@
       "levels": [
         {
           "level": 0,
-          "probability": 0.0574,
+          "probability": 0.07,
           "success": {
             "the_vault:ore_painite[type=white,generated=true]": 10,
             "the_vault:ore_alexandrite[type=white,generated=true]": 10,
@@ -31,7 +31,7 @@
         },
         {
           "level": 11,
-          "probability": 0.082,
+          "probability": 0.1,
           "success": {
             "the_vault:ore_painite[type=white,generated=true]": 80,
             "the_vault:ore_alexandrite[type=white,generated=true]": 40,
@@ -56,7 +56,7 @@
         },
         {
           "level": 23,
-          "probability": 0.082,
+          "probability": 0.1,
           "success": {
             "the_vault:ore_painite[type=white,generated=true]": 80,
             "the_vault:ore_alexandrite[type=white,generated=true]": 40,
@@ -81,7 +81,7 @@
         },
         {
           "level": 40,
-          "probability": 0.0984,
+          "probability": 0.12,
           "success": {
             "the_vault:ore_painite[type=white,generated=true]": 100,
             "the_vault:ore_alexandrite[type=white,generated=true]": 40,

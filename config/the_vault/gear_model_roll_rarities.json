@@ -113,7 +113,12 @@
       "the_vault:gear/armor/jester",
       "the_vault:gear/armor/scout",
       "the_vault:gear/armor/bee_knight",
-      "the_vault:gear/armor/victory"
+      "the_vault:gear/armor/victory",
+      "the_vault:gear/armor/silentfoxxy",
+      "the_vault:gear/armor/guybrush",
+      "the_vault:gear/armor/lupicanis",
+      "the_vault:gear/armor/goldflame",
+      "the_vault:gear/armor/soulflame"
     ]
   },
   "SWORD_MODEL_ROLLS": {

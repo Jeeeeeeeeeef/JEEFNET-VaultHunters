@@ -11,6 +11,17 @@
           "block": "the_vault:god_altar[god=velara]",
           "modifierCompletionPool": "the_vault:velara_favours",
           "modifierFailurePool": "the_vault:altar_curses",
+          "lootPool": [
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:god_token",
+                "nbt": {
+                  "type": "velara"
+                }
+              }
+            }
+          ],
           "weight": 1
         }
       ]
@@ -26,7 +37,18 @@
           "block": "the_vault:god_altar[god=tenos]",
           "modifierCompletionPool": "the_vault:tenos_favours",
           "modifierFailurePool": "the_vault:altar_curses",
-          "weight": 1
+          "weight": 1,
+          "lootPool": [
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:god_token",
+                "nbt": {
+                  "type": "tenos"
+                }
+              }
+            }
+          ]
         }
       ]
     },
@@ -41,7 +63,18 @@
           "block": "the_vault:god_altar[god=wendarr]",
           "modifierCompletionPool": "the_vault:wendarr_favours",
           "modifierFailurePool": "the_vault:altar_curses",
-          "weight": 1
+          "weight": 1,
+          "lootPool": [
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:god_token",
+                "nbt": {
+                  "type": "wendarr"
+                }
+              }
+            }
+          ]
         }
       ]
     },
@@ -56,7 +89,18 @@
           "block": "the_vault:god_altar[god=idona]",
           "modifierCompletionPool": "the_vault:idona_favours",
           "modifierFailurePool": "the_vault:altar_curses",
-          "weight": 1
+          "weight": 1,
+          "lootPool": [
+            {
+              "weight": 10,
+              "item": {
+                "id": "the_vault:god_token",
+                "nbt": {
+                  "type": "idona"
+                }
+              }
+            }
+          ]
         }
       ]
     },

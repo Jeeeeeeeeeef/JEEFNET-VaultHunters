@@ -95,6 +95,29 @@
         ]
       }
     ],
+    "brazier": [
+      {
+        "level": 0,
+        "rollTypeOutcomes": [
+          {
+            "value": "Common+",
+            "weight": 20
+          },
+          {
+            "value": "Rare+",
+            "weight": 20
+          },
+          {
+            "value": "Epic+",
+            "weight": 4
+          },
+          {
+            "value": "Omega",
+            "weight": 1
+          }
+        ]
+      }
+    ],
     "ornate0": [
       {
         "level": 0,
@@ -454,10 +477,6 @@
         "level": 0,
         "rollTypeOutcomes": [
           {
-            "value": "Scrappy+",
-            "weight": 70
-          },
-          {
             "value": "Common+",
             "weight": 20
           },
@@ -468,6 +487,10 @@
           {
             "value": "Epic+",
             "weight": 3
+          },
+          {
+            "value": "Omega",
+            "weight": 1
           }
         ]
       }

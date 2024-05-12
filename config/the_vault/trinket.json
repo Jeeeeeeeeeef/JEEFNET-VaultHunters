@@ -341,13 +341,13 @@
       "weight": 10,
       "name": "Stone of Jordan",
       "effectText": "+1 to all learned abilities",
-      "color": 16534066,
+      "color": 3304444,
       "minCraftedUses": 12,
       "maxCraftedUses": 12,
       "minUses": 20,
       "maxUses": 30,
       "config": {
-        "curiosSlot": "red_trinket",
+        "curiosSlot": "blue_trinket",
         "name": "all_abilities",
         "value": 1
       }
