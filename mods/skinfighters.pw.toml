@@ -1,0 +1,11 @@
+name = "Skin Fighters"
+filename = "skinfighters.jar"
+side = "both"
+
+[download]
+url = "https://github.com/radimous/SkinFighters/releases/download/v2.2/skinfighters-2.2.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f9b92ecd0aee8a5d88f8901312589f459dfde6a0a635fe317b0af32a6394e93f"

@@ -1,0 +1,11 @@
+name = "Shift Click Trinkets"
+filename = "shiftclicktrinkets.jar"
+side = "both"
+
+[download]
+url = "https://github.com/radimous/ShiftClickTrinkets/releases/download/v1.0/shiftclicktrinkets-1.0.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "41dabaf365ee50b0a910bddd9bf6f9e2fc340dd335b3261c3fbd7f94e6e810b5"

@@ -1,0 +1,13 @@
+name = "ISpawner"
+filename = "ispawner-1.1.7-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c55ac133c83d5e9a1a0ea55a7b7ccf3ee7545496"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4641653
+project-id = 533792

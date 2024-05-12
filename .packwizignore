@@ -1,0 +1,5 @@
+.vscode
+*.md
+*.exe
+*.bat
+*.mrpack
