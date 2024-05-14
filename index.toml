@@ -11659,6 +11659,11 @@ hash = "51d72f9126ded6e791bd2cc85c1d483a6179606f77cdd57ebbcbd09eb2075f68"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "2eb08ed9ad96652c2da67e9faf59fc7332436e14587417d3de1ad0fb8376db37"
 metafile = true
