@@ -11879,11 +11879,6 @@ hash = "03ee69b801ff5c5e357b876f7a97a9d9002c84460c366097ee5c337f4408fc7c"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "fb77d538004a30c70e644413abce31a9b72edaeaf6baad799129039717d8a8b4"
-metafile = true
-
-[[files]]
 file = "mods/runelic.pw.toml"
 hash = "f9421682d84321e3d88e00733aa976502ea3d3a8bdfb8a1b9c050604fa8e9694"
 metafile = true
