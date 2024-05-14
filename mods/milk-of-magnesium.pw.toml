@@ -1,0 +1,13 @@
+name = "Milk of Magnesium"
+filename = "milk_of_magnesium-1.18.2_v1.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4b1953b41224d802b09e86ae0b67ee2a4213f32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3944278
+project-id = 659035

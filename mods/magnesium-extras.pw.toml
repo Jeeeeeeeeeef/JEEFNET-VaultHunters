@@ -1,6 +1,6 @@
-name = "Magnesium/Rubidium Extras"
+name = "Embeddium/Rubidium Extras"
 filename = "rubidium_extras-1.18.2_v1.3.2.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

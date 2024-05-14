@@ -11553,6 +11553,11 @@ hash = "06fadd1cf6120d4c660bf130cc8e3f4c595d2b8471d2c8d860229df475ff1a18"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "17f1275c22e2e4710cbfc85327e26b946f13b6fb11fedff4e00b0b85d613e61c"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3882c802ffa760a9c7581bb04bde212173edb903d54a931c5cbdf83eff6053b9"
 metafile = true
@@ -11718,6 +11723,16 @@ hash = "09d8f078e2ca80d580b95b83177a27784ef304e01d27e54d7c6135a6f8c6a543"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-block-entities-reforged-unofficial.pw.toml"
+hash = "febde3c1e20d5dd4a4fed121c4d185c475a85af46633625859d79db830c630c4"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "461b3289a997b8bf33e2f74e8f7391828c3a2660443fe1b714778677ca3d0d4c"
+metafile = true
+
+[[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "769c1fcb95cfb5efb1415b13629a0035e0ce67f48b64d1a0681efd95dde447f2"
 metafile = true
@@ -11745,6 +11760,11 @@ metafile = true
 [[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "3192433f940257c03b21f7c13cdf0af8195c797c08d3f762da5eaf102a061cbc"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
 metafile = true
 
 [[files]]
@@ -11785,6 +11805,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "26957cccd2e46d96b644f016aac4517184a537aa09d4e433abd767c1211dac05"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast-reforged.pw.toml"
+hash = "387805c856fb47c0b5d3a2a2dcdb1b2520569794f50291fec3fe8742622cdfd2"
 metafile = true
 
 [[files]]
@@ -11848,6 +11873,11 @@ hash = "35fabe0ac1bebd7cd8530db45a164838ee1a5687cefcb6bbef2b5d42afac8701"
 metafile = true
 
 [[files]]
+file = "mods/lightspeed.pw.toml"
+hash = "8036b6395c91194b453dd99221066cd03c7d728b9c9bd861461f63fa582b1e79"
+metafile = true
+
+[[files]]
 file = "mods/loot-beams.pw.toml"
 hash = "2ab26b00c0016a05df747ccbfa4531cce65f8febe47433cd056d1272b5945ce6"
 metafile = true
@@ -11889,7 +11919,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "2c622839003e9008c0d3f891c6b376ec59ccb56289320c96d72093323bd0205a"
+hash = "b5b5ad45c529d7234e671408878c9ca63ca82c44c564794950e1e72f071764b0"
 metafile = true
 
 [[files]]
@@ -11918,6 +11948,11 @@ hash = "be9967977aab8177f61cca46e4cf0470aca671cbf9d327e49ba8b9d1534ebc8a"
 metafile = true
 
 [[files]]
+file = "mods/milk-of-magnesium.pw.toml"
+hash = "ded9e6c5b44a8d01c91a9ffbe2814d8c5bf834ce790dbca05d8272c9254d599b"
+metafile = true
+
+[[files]]
 file = "mods/mining-gadgets.pw.toml"
 hash = "a2f162049ca146326010a2a500f59d3ee62264259af43274aba93da55a04cf08"
 metafile = true
@@ -11925,6 +11960,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "543cae965a82c348b1a64fce5b3d7a4690970b6db6f38518c6f99771cec9a387"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "675f90b8b377b69ad530620748e453514624e49d4df7e25d742184dd6d058236"
 metafile = true
 
 [[files]]
@@ -11949,7 +11989,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "e06240634ffc0160925d15dc99c0f6d765c04bc303fb118d76c2f6cac38eed69"
+hash = "93a9397e7f2b976eed930d34e9fd76dfdf69fe47f70530e2ac9c536b58d23623"
 metafile = true
 
 [[files]]
@@ -12058,6 +12098,11 @@ hash = "8259e337361b2d18af7efb0c7da3867509ac60f72193fbf3a8ae8299575137a1"
 metafile = true
 
 [[files]]
+file = "mods/reforgium.pw.toml"
+hash = "ecb5c76fefc69500c004cabf055a7b1755817bbd3e4a5b24a79a55cc549099f4"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "18abf7bf525dbb198e37c1c38fc24f5097ff9e7be5de15a1b44f02f0b9d80db9"
 metafile = true
@@ -12104,12 +12149,17 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "677339e3009ce3baf939f026be93885fe243369537dd55f3816a25c91940af17"
+hash = "07820f2e9cf69d227919b049139bb03f83332d3ca2af5b4253c6e88893c47680"
 metafile = true
 
 [[files]]
 file = "mods/runelic.pw.toml"
 hash = "f9421682d84321e3d88e00733aa976502ea3d3a8bdfb8a1b9c050604fa8e9694"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "f76a9f81f1139c2ed6a3e3b1b02adf65b20a7a3a2582be6efd0678ad45d50c68"
 metafile = true
 
 [[files]]
