@@ -18,6 +18,7 @@ import mods.create.MechanicalCrafterManager;
 import crafttweaker.api.recipe.Brewing;
 import crafttweaker.api.tag.MCTag;
 import mods.botania.Brew;
+import mods.jei.JEI;
 
 loot.modifiers.register(
     "no_loot", 
@@ -204,6 +205,9 @@ var materials = {
 
 #RemoveRecipies
 
+// Alex's Mobs
+craftingTable.removeByModid("alexsmobs");
+
 // Snad
 craftingTable.remove(<item:snad:suol_snad>);
 craftingTable.remove(<item:snad:red_snad>);
@@ -258,7 +262,7 @@ craftingTable.remove(<item:ae2:quartz_growth_accelerator>);
 craftingTable.remove(<item:ae2:wireless_booster>);
 craftingTable.remove(<item:ae2:pattern_provider>);
 craftingTable.remove(<item:ae2:blank_pattern>);
-
+craftingTable.remove(<item:ae2:spatial_anchor>);
 craftingTable.remove(<item:ae2things:disk_housing>);
 craftingTable.remove(<item:ae2things:disk_drive_1k>);
 craftingTable.remove(<item:ae2things:disk_drive_4k>);
@@ -312,6 +316,7 @@ craftingTable.remove(<item:botania:livingwood_twig>);
 craftingTable.remove(<item:botania:dreamwood_twig>);
 craftingTable.remove(<item:botania:twig_wand>);
 craftingTable.remove(<item:botania:dreamwood_wand>);
+craftingTable.remove(<item:botania:crafty_crate>);
 craftingTable.remove(<item:botania:mana_pool>);
 craftingTable.remove(<item:botania:runic_altar>);
 craftingTable.remove(<item:botania:manasteel_helmet>);
@@ -334,7 +339,7 @@ craftingTable.remove(<item:botania:holy_cloak>);
 craftingTable.remove(<item:botania:unholy_cloak>);
 craftingTable.remove(<item:botania:balance_cloak>);
 craftingTable.remove(<item:botania:invisibility_cloak>);
-
+craftingTable.remove(<item:botania:gaia_ingot>);
 craftingTable.remove(<item:botania:mana_ring_greater>);
 craftingTable.remove(<item:botania:magnet_ring_greater>);
 craftingTable.remove(<item:botania:aura_ring_greater>);
@@ -406,7 +411,7 @@ craftingTable.remove(<item:botania:bifrost_perm>);
 craftingTable.remove(<item:botania:fabulous_pool>);
 craftingTable.remove(<item:botania:mana_spreader>);
 craftingTable.remove(<item:botania:alchemy_catalyst>);
-
+craftingTable.remove(<item:botania:mana_fluxfield>);
 
 //Chunky
 craftingTable.remove(<item:chunkymcchunkface:chunk_loader>);
@@ -522,6 +527,9 @@ craftingTable.remove(<item:mekanism:digital_miner>);
 craftingTable.remove(<item:mekanism:dimensional_stabilizer>);
 craftingTable.remove(<item:mekanismgenerators:gas_burning_generator>);
 
+// Enercell
+craftingTable.remove(<item:enercell:enercell>);
+
 // Refined Storage
 craftingTable.remove(<item:refinedstorage:network_receiver>);
 craftingTable.remove(<item:refinedstorage:network_transmitter>);
@@ -554,7 +562,7 @@ craftingTable.remove(<tag:items:refinedstorage:detector>);
 craftingTable.remove(<item:refinedstorage:wireless_transmitter>);
 craftingTable.remove(<item:refinedstorage:external_storage>);
 craftingTable.remove(<item:refinedstorage:speed_upgrade>);
-
+craftingTable.remove(<item:refinedstorage:crafting_upgrade>);
 craftingTable.remove(<item:refinedstorage:stack_upgrade>);
 craftingTable.remove(<item:refinedstorage:wireless_grid>);
 craftingTable.remove(<item:refinedstorageaddons:wireless_crafting_grid>);
@@ -714,13 +722,11 @@ craftingTable.remove(<item:mininggadgets:upgrade_battery_2>);
 craftingTable.remove(<item:mininggadgets:upgrade_battery_3>);
 craftingTable.remove(<item:mininggadgets:upgrade_silk>);
 
-// Construction Wand
-craftingTable.remove(<item:constructionwand:stone_wand>);
-craftingTable.remove(<item:constructionwand:iron_wand>);
-craftingTable.remove(<item:constructionwand:diamond_wand>);
-craftingTable.remove(<item:constructionwand:infinity_wand>);
-craftingTable.remove(<item:constructionwand:core_angel>);
-craftingTable.remove(<item:constructionwand:core_destruction>);
+// Building Gadgets
+craftingTable.remove(<item:buildinggadgets:gadget_destruction>);
+craftingTable.remove(<item:buildinggadgets:gadget_building>);
+craftingTable.remove(<item:buildinggadgets:gadget_copy_paste>);
+craftingTable.remove(<item:buildinggadgets:gadget_exchanging>);
 
 // RFTools
 craftingTable.remove(<item:rftoolsbase:crafting_card>);
@@ -850,6 +856,7 @@ craftingTable.remove(<item:create:large_water_wheel>);
 // Backpacks
 craftingTable.remove(<item:sophisticatedbackpacks:advanced_refill_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:stonecutter_upgrade>);
+craftingTable.remove(<item:sophisticatedbackpacks:jukebox_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:advanced_tool_swapper_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:battery_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:pump_upgrade>);
@@ -909,6 +916,7 @@ craftingTable.remove(<item:waystones:warp_dust>);
 craftingTable.remove(<item:waystones:warp_plate>);
 
 // Modular Routers
+craftingTable.remove(<item:modularrouters:player_module>);
 craftingTable.remove(<item:modularrouters:sender_module_1>);
 craftingTable.remove(<item:modularrouters:sender_module_2>);
 craftingTable.remove(<item:modularrouters:sender_module_3>);
@@ -971,16 +979,15 @@ craftingTable.remove(<item:powah:solar_panel_basic>);
 
 // craftingTable.remove();   
 
-craftingTable.remove(<item:ae2wtlib:infinity_booster_card>);
-craftingTable.remove(<item:ae2wtlib:magnet_card>);
-#onlyif side client
-import mods.jei.JEI;
-
 // removing items from JEI
 
 //JEI.hideIngredient
+// Alexsmobs
+JEI.hideMod("alexsmobs");
+JEI.addIngredient(<item:alexsmobs:rainbow_glass>);
 // Backpacks
 JEI.hideIngredient(<item:sophisticatedbackpacks:stonecutter_upgrade>);
+JEI.hideIngredient(<item:sophisticatedbackpacks:jukebox_upgrade>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:advanced_tool_swapper_upgrade>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:battery_upgrade>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:pump_upgrade>);
@@ -1083,7 +1090,7 @@ JEI.hideIngredient(<item:botania:terra_pick>);
 JEI.hideIngredient(<item:botania:terra_axe>);
 JEI.hideIngredient(<item:botania:terra_sword>);
 JEI.hideIngredient(<item:botania:mana_cookie>);
-
+JEI.hideIngredient(<item:botania:crafty_crate>);
 JEI.hideIngredient(<item:botania:thorn_chakram>);
 JEI.hideIngredient(<item:botania:flare_chakram>);
 JEI.hideIngredient(<item:botania:brew_vial>.withTag({brewKey: "botania:resistance" as string}));
@@ -1254,6 +1261,9 @@ var gems = {
   "iskallic_gemstone": "iskallic"
 };
 
+for gemId, gemName in gems {
+ JEI.hideIngredient(<item:the_vault:${gemName}_gemstone>);
+  }
 var jewels = {
   "echoing_jewel": "echoing",
   "petzan_jewel": "petzan",
@@ -1269,9 +1279,6 @@ var jewels = {
   "upal_jewel": "upal",
 };
 
-for gemId, gemName in gems {
- JEI.hideIngredient(<item:the_vault:${gemName}_gemstone>);
-  }
 for jewelId, jewelName in jewels {
  JEI.hideIngredient(<item:the_vault:${jewelName}_jewel>);
   }
@@ -1426,7 +1433,6 @@ JEI.hideIngredient(<item:the_vault:archetype_star_shard>);
 JEI.hideIngredient(<item:the_vault:acceleration_chip>);
 JEI.hideIngredient(<item:the_vault:cluster_netherite>);
 JEI.hideIngredient(<item:the_vault:crystal_seal_raid>);
-JEI.hideIngredient(<item:the_vault:crystal_seal_speedrun>);
 JEI.hideIngredient(<item:the_vault:infused_eternal_soul>);
 JEI.hideIngredient(<item:the_vault:hardened_wutodic_mass>);
 JEI.hideIngredient(<item:the_vault:sublime_vault_elixir>);
@@ -1500,6 +1506,8 @@ JEI.hideIngredient(<item:rftoolsbase:infused_diamond>);
 JEI.hideIngredient(<item:rftoolsbase:dimensionalshard>);
 JEI.hideIngredient(<item:rftoolsbase:machine_infuser>);
 JEI.hideIngredient(<item:rftoolsbase:crafting_card>);
+JEI.hideIngredient(<item:rftoolsbase:tablet>);
+JEI.hideIngredient(<item:rftoolsbase:tablet_filled>);
 // Titanium
 JEI.hideMod("titanium");
 // Rotten Creatures
@@ -1508,6 +1516,3 @@ JEI.hideMod("rottencreatures");
 JEI.hideIngredient(<item:ispawner:spawn_egg>);
 // AE2
 JEI.hideIngredient(<item:ae2:vibration_chamber>);
-JEI.hideIngredient(<item:ae2wtlib:infinity_booster_card>);
-JEI.hideIngredient(<item:ae2wtlib:magnet_card>);
-#endif

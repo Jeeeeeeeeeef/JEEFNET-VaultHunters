@@ -2,7 +2,6 @@
 for Iskall85's Vaulthunters */
 
 // adding recipes
-#onlyif side client
 
 import mods.jei.JEI;
 
@@ -15,4 +14,3 @@ mods.jei.JEI.addDescription(<item:the_vault:vault_altar>,("The Vault Altar allow
 mods.jei.JEI.addDescription(<item:the_vault:soul_flame>,("Combine a Vault Crystal with a Soul Flame in an anvil to add the Afterlife modifier preventing loss of items if you die inside a Vault. This sets the experience multiplier to 50% and has a chance to apply a curse to your crystal which can be identified or removed using Motes."));
 mods.jei.JEI.addDescription(<item:the_vault:phoenix_feather>,("Apply to a crystal in an anvil to add the Phoenix modifier. Each feather saves the player from death one time and can be applied multiple times to the same crystal."));
 mods.jei.JEI.addDescription(<item:the_vault:eye_of_avarice>,("Apply to a crystal in an anvil to add Looters Dream. Looters Dream completely negates all trapped chances from ever occuring even when on a crystal with the Trapped Modifier."));
-#endif

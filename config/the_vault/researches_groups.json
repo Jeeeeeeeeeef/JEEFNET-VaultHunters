@@ -4,7 +4,7 @@
       "title": "Storage",
       "research": [
         "Colossal Chests",
-        "Sophisticated Storage",
+        "Simple Storage Network",
         "Refined Storage",
         "Applied Energistics",
         "Drawers",
@@ -19,9 +19,9 @@
       "title": "Big Toys",
       "research": [
         "Mining Gadgets",
-        "Chunk Loaders",
+        "Weirding Gadgets",
         "Digital Miner",
-        "Construction Wand"
+        "Building Gadgets"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -36,6 +36,7 @@
         "Cagerium",
         "Mob Spawners",
         "Phytogenic Insulator",
+        "Easy Piglins",
         "Botany Pots"
       ],
       "globalCostIncrease": 0.0,
@@ -76,11 +77,9 @@
       "research": [
         "Torch Master",
         "Trashcans",
-        "Farmers Delight",
         "Elevators",
         "Waystones",
         "Vault Compass",
-        "RFTools Utility",
         "Altar Automation"
       ],
       "globalCostIncrease": 0.0,

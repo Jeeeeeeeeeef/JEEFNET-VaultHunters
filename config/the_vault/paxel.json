@@ -1,4 +1,5 @@
 {
+  "MAX_HARDNESS_ABOVE_TARGET": 5,
   "PULVERIZING_MAP": {
     "minecraft:cobblestone": {
       "item": {
@@ -202,143 +203,31 @@
         "amount": 8
       },
       "probability": 1.0
-    },
-    "the_vault:chromatic_iron_ore": {
-      "item": {
-        "item": "the_vault:raw_chromatic_iron",
-        "amount": 3
-      },
-      "probability": 1.0
-    },
-    "minecraft:black_concrete": {
-      "item": {
-        "item": "minecraft:black_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:red_concrete": {
-      "item": {
-        "item": "minecraft:red_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:green_concrete": {
-      "item": {
-        "item": "minecraft:green_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:brown_concrete": {
-      "item": {
-        "item": "minecraft:brown_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:blue_concrete": {
-      "item": {
-        "item": "minecraft:blue_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:purple_concrete": {
-      "item": {
-        "item": "minecraft:purple_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:cyan_concrete": {
-      "item": {
-        "item": "minecraft:cyan_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:gray_concrete": {
-      "item": {
-        "item": "minecraft:gray_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:pink_concrete": {
-      "item": {
-        "item": "minecraft:pink_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:lime_concrete": {
-      "item": {
-        "item": "minecraft:lime_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:yellow_concrete": {
-      "item": {
-        "item": "minecraft:yellow_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:light_blue_concrete": {
-      "item": {
-        "item": "minecraft:light_blue_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:magenta_concrete": {
-      "item": {
-        "item": "minecraft:magenta_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:orange_concrete": {
-      "item": {
-        "item": "minecraft:orange_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
-    },
-    "minecraft:white_concrete": {
-      "item": {
-        "item": "minecraft:white_concrete_powder",
-        "amount": 1
-      },
-      "probability": 1.0
     }
   },
   "TIER_VALUES": {
     "the_vault:vaulterite_pickaxe": {
-      "STURDINESS_DECREMENT_PER_LEVEL": 1,
+      "STURDINESS_DECREMENT_PER_LEVEL": 10,
       "LEVEL_DELTA_PER_SOCKET": 5,
       "TIER_BASE_DURABILITY": 1500,
       "BASE_REPAIR_SLOTS": 1
     },
     "the_vault:vault_pickaxe": {
-      "STURDINESS_DECREMENT_PER_LEVEL": 1,
+      "STURDINESS_DECREMENT_PER_LEVEL": 5,
       "LEVEL_DELTA_PER_SOCKET": 3,
       "TIER_BASE_DURABILITY": 4000,
       "BASE_REPAIR_SLOTS": 2
     }, 
     "the_vault:black_chromatic_pickaxe": {
-      "STURDINESS_DECREMENT_PER_LEVEL": 1,
-      "LEVEL_DELTA_PER_SOCKET": 3,
+      "STURDINESS_DECREMENT_PER_LEVEL": 4,
+      "LEVEL_DELTA_PER_SOCKET": 4,
       "TIER_BASE_DURABILITY": 6000,
       "BASE_REPAIR_SLOTS": 3
     },
     "the_vault:echoing_pickaxe": {
-      "STURDINESS_DECREMENT_PER_LEVEL": 1,
+      "STURDINESS_DECREMENT_PER_LEVEL": 3,
       "LEVEL_DELTA_PER_SOCKET": 3,
-      "TIER_BASE_DURABILITY": 8000,
+      "TIER_BASE_DURABILITY": 6000,
       "BASE_REPAIR_SLOTS": 4
     },
     "the_vault:prismatic_pickaxe": {
@@ -360,7 +249,7 @@
         2
       ],
       "POSITIVE": true,
-      "MIN_YIELD": 400.0,
+      "MIN_YIELD": 100.0,
       "MAX_YIELD": 500.0,
       "BASE_VALUE": 0.0,
       "MAX_VALUE": 100000.0,
@@ -378,7 +267,7 @@
       ],
       "POSITIVE": true,
       "IS_DECIMAL": true,
-      "MIN_YIELD": 2.0,
+      "MIN_YIELD": 1.0,
       "MAX_YIELD": 3.0,
       "BASE_VALUE": 10.0,
       "MAX_VALUE": 100000.0,
@@ -396,7 +285,7 @@
       ],
       "POSITIVE": true,
       "IS_DECIMAL": true,
-      "MIN_YIELD": 0.6,
+      "MIN_YIELD": 0.3,
       "MAX_YIELD": 0.7,
       "BASE_VALUE": 0.0,
       "MAX_VALUE": 10.0,
@@ -414,7 +303,7 @@
       ],
       "POSITIVE": true,
       "IS_PERCENT": true,
-      "MIN_YIELD": 0.8,
+      "MIN_YIELD": 0.5,
       "MAX_YIELD": 1.0,
       "BASE_VALUE": 0.0,
       "MAX_VALUE": 100000.0,

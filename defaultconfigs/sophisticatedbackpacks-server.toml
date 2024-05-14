@@ -2,7 +2,7 @@
 #Server Settings
 [server]
 	#List of items that are not allowed to be put in backpacks - e.g. "minecraft:shulker_box"
-	disallowedItems = ["minecraft:bundle", "minecraft:shulker_box", "minecraft:white_shulker_box", "minecraft:orange_shulker_box", "minecraft:magenta_shulker_box", "minecraft:light_blue_shulker_box", "minecraft:yellow_shulker_box", "minecraft:lime_shulker_box", "minecraft:pink_shulker_box", "minecraft:gray_shulker_box", "minecraft:light_gray_shulker_box", "minecraft:cyan_shulker_box", "minecraft:purple_shulker_box", "minecraft:blue_shulker_box", "minecraft:brown_shulker_box", "minecraft:green_shulker_box", "minecraft:red_shulker_box", "minecraft:black_shulker_box", "minecraft:enchanted_golden_apple", "supplementaries:sack", "supplementaries:safe"]
+	disallowedItems = ["the_vault:vault_compass", "minecraft:bundle", "minecraft:shulker_box", "minecraft:white_shulker_box", "minecraft:orange_shulker_box", "minecraft:magenta_shulker_box", "minecraft:light_blue_shulker_box", "minecraft:yellow_shulker_box", "minecraft:lime_shulker_box", "minecraft:pink_shulker_box", "minecraft:gray_shulker_box", "minecraft:light_gray_shulker_box", "minecraft:cyan_shulker_box", "minecraft:purple_shulker_box", "minecraft:blue_shulker_box", "minecraft:brown_shulker_box", "minecraft:green_shulker_box", "minecraft:red_shulker_box", "minecraft:black_shulker_box", "minecraft:enchanted_golden_apple", "minecraft:chorus_fruit", "supplementaries:sack", "supplementaries:safe"]
 	#List of blocks that inventory interaction upgrades can't interact with - e.g. "minecraft:shulker_box"
 	noInteractionBlocks = ["the_vault:wooden_chest", "the_vault:altar_chest", "the_vault:gilded_chest", "the_vault:ornate_chest", "the_vault:treasure_chest", "the_vault:living_chest"]
 	#Turns on/off loot added to various vanilla chest loot tables
@@ -236,7 +236,7 @@
 	#Stack Upgrade Settings
 	[server.stackUpgrade]
 		#List of items that are not supposed to stack in storage even when stack upgrade is inserted. Item registry names are expected here.
-		nonStackableItems = ["supplementaries:sack", "minecraft:potion", "supplementaries:safe", "botania:brew_vial", "botania:brew_flask", "botania:bauble_box"]
+		nonStackableItems = ["minecraft:totem_of_undying", "supplementaries:sack", "minecraft:potion", "supplementaries:safe", "botania:brew_vial", "botania:brew_flask", "botania:bauble_box"]
 
 	#Smelting Upgrade Settings
 	[server.smeltingUpgrade]

@@ -3,7 +3,7 @@ for Iskall85's Vaulthunters */
 
 // adding recipes
 
-// import mods.jei.JEI;
+import mods.jei.JEI;
 
 // JEI.addDescription(<item:fluxnetworks:flux_dust>,["right click raw chromatic iron with obsidian"]);
 

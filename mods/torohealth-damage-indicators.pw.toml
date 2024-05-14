@@ -1,6 +1,6 @@
 name = "ToroHealth Damage Indicators"
 filename = "torohealth-1.18-forge-2.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

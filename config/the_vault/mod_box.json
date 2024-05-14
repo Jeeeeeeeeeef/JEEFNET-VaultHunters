@@ -10,47 +10,6 @@
         "weight": 1
       }
     ],
-    "RFTools Utility": [
-      {"value": {"id": "rftoolsbase:machine_base", "amountMin": 1, "amountMax": 1}, "weight": 10},
-      {"value": {"id": "rftoolsutility:analog", "amountMin": 1, "amountMax": 2}, "weight": 1},
-      {"value": {"id": "rftoolsutility:counter", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:digit", "amountMin": 1, "amountMax": 3}, "weight": 1},
-      {"value": {"id": "rftoolsutility:invchecker", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:sensor", "amountMin": 1, "amountMax": 2}, "weight": 1},
-      {"value": {"id": "rftoolsutility:sequencer", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:logic", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:timer", "amountMin": 1, "amountMax": 2}, "weight": 1},
-      {"value": {"id": "rftoolsutility:wire", "amountMin": 2, "amountMax": 4}, "weight": 1},
-      {"value": {"id": "rftoolsutility:redstone_receiver", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:redstone_transmitter", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:screen", "amountMin": 1, "amountMax": 1}, "weight": 5},
-      {"value": {"id": "rftoolsutility:screen_controller", "amountMin": 1, "amountMax": 1}, "weight": 3},
-      {"value": {"id": "rftoolsutility:text_module", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:energy_module", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:fluid_module", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:button_module", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:redstone_module", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:counter_module", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:tank", "amountMin": 1, "amountMax": 2}, "weight": 1},
-      {"value": {"id": "rftoolsbase:tablet", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:screen_link", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "rftoolsutility:redstone_information", "amountMin": 1, "amountMax": 1}, "weight": 1}
-    ],
-    "Sophisticated Storage": [
-      {"value": {"id": "sophisticatedstorage:upgrade_base", "amountMin": 1, "amountMax": 2}, "weight": 30},
-      {"value": {"id": "sophisticatedstorage:basic_to_iron_tier_upgrade", "amountMin": 1, "amountMax": 2}, "weight": 20},
-      {"value": {"id": "sophisticatedstorage:iron_to_gold_tier_upgrade", "amountMin": 1, "amountMax": 2}, "weight": 15},
-      {"value": {"id": "sophisticatedstorage:gold_to_diamond_tier_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 10},
-      {"value": {"id": "sophisticatedstorage:diamond_to_netherite_tier_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 5},
-      {"value": {"id": "sophisticatedstorage:jukebox_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 5},
-      {"value": {"id": "sophisticatedstorage:stack_upgrade_tier_4", "amountMin": 1, "amountMax": 1}, "weight": 1}
-    ],
-    "Chunk Loaders": [
-      {"value": {"id": "chunkloaders:single_chunk_loader", "amountMin": 1, "amountMax": 1}, "weight": 30},
-      {"value": {"id": "chunkloaders:basic_chunk_loader", "amountMin": 1, "amountMax": 1}, "weight": 10},
-      {"value": {"id": "chunkloaders:advanced_loader", "amountMin": 1, "amountMax": 1}, "weight": 3},
-      {"value": {"id": "chunkloaders:ultimate_chunk_loader", "amountMin": 1, "amountMax": 1}, "weight": 1}
-    ],
     "Drawers": [
       {"value": {"id": "framedcompactdrawers:framed_compact_drawer", "amountMin": 1, "amountMax": 1}, "weight": 50},
       {"value": {"id": "framedcompactdrawers:framed_drawer_controller", "amountMin": 1, "amountMax": 1}, "weight": 25},

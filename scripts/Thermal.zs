@@ -213,4 +213,4 @@ craftingTable.addShaped("thermal_satchel", <item:thermal:satchel>, [
 
 <recipetype:thermal:insolator>.addRecipe("insolator_smalldrip", [<item:minecraft:small_dripleaf> % 200], <item:minecraft:small_dripleaf>, 1000, 10000);
 
-<recipetype:thermal:pulverizer>.addRecipe("sky_stone_dust", [<item:ae2:sky_dust>], <item:ae2:sky_stone_block>, 3, 2000);
+<recipetype:thermal:pulverizer>.addRecipe("buildinggadgets_block_to_paste_thermal", [<item:buildinggadgets:construction_paste> % 411], <item:buildinggadgets:construction_block_dense>, 3, 2000);

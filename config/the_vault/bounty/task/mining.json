@@ -8,7 +8,7 @@
             "value": "the_vault:ore_larimar",
             "amount": {
               "min": 2,
-              "max": 4
+              "max": 8
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -23,7 +23,7 @@
             "value": "the_vault:ore_benitoite",
             "amount": {
               "min": 2,
-              "max": 4
+              "max": 8
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -38,7 +38,7 @@
             "value": "the_vault:ore_painite",
             "amount": {
               "min": 2,
-              "max": 4
+              "max": 8
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -53,7 +53,7 @@
             "value": "the_vault:ore_wutodie",
             "amount": {
               "min": 2,
-              "max": 4
+              "max": 8
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -82,7 +82,7 @@
             "value": "the_vault:ore_black_opal",
             "amount": {
               "min": 2,
-              "max": 4
+              "max": 6
             },
             "floorToNearestTen": false,
             "validDimensions": [],

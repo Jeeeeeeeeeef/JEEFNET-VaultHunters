@@ -754,8 +754,8 @@
         "tiers": [
           {
             "type": "low_health_resistance",
-            "additionalResistance": 0.07,
-            "healthThreshold": 0.5,
+            "additionalResistance": 0.1,
+            "healthThreshold": 0.2,
             "effect": "the_vault:last_stand",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -763,8 +763,8 @@
           },
           {
             "type": "low_health_resistance",
-            "additionalResistance": 0.11,
-            "healthThreshold": 0.5,
+            "additionalResistance": 0.2,
+            "healthThreshold": 0.2,
             "effect": "the_vault:last_stand",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -772,8 +772,8 @@
           },
           {
             "type": "low_health_resistance",
-            "additionalResistance": 0.14,
-            "healthThreshold": 0.5,
+            "additionalResistance": 0.3,
+            "healthThreshold": 0.2,
             "effect": "the_vault:last_stand",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -781,8 +781,8 @@
           },
           {
             "type": "low_health_resistance",
-            "additionalResistance": 0.16,
-            "healthThreshold": 0.5,
+            "additionalResistance": 0.4,
+            "healthThreshold": 0.2,
             "effect": "the_vault:last_stand",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -798,26 +798,8 @@
         "tiers": [
           {
             "type": "low_health_damage",
-            "damageIncrease": 0.1,
-            "healthThreshold": 0.5,
-            "effect": "the_vault:beserking",
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "low_health_damage",
             "damageIncrease": 0.2,
-            "healthThreshold": 0.5,
-            "effect": "the_vault:beserking",
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 0
-          },
-          {
-            "type": "low_health_damage",
-            "damageIncrease": 0.3,
-            "healthThreshold": 0.5,
+            "healthThreshold": 0.2,
             "effect": "the_vault:beserking",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -826,7 +808,25 @@
           {
             "type": "low_health_damage",
             "damageIncrease": 0.4,
-            "healthThreshold": 0.5,
+            "healthThreshold": 0.2,
+            "effect": "the_vault:beserking",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "low_health_damage",
+            "damageIncrease": 0.6,
+            "healthThreshold": 0.2,
+            "effect": "the_vault:beserking",
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "low_health_damage",
+            "damageIncrease": 0.8,
+            "healthThreshold": 0.2,
             "effect": "the_vault:beserking",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -843,8 +843,8 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.8,
-            "value": 0.2,
+            "healthThreshold": 0.99,
+            "value": 0.1,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -854,8 +854,8 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.8,
-            "value": 0.4,
+            "healthThreshold": 0.99,
+            "value": 0.2,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -865,8 +865,8 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.8,
-            "value": 0.6,
+            "healthThreshold": 0.99,
+            "value": 0.3,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -876,8 +876,8 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.8,
-            "value": 0.8,
+            "healthThreshold": 0.99,
+            "value": 0.4,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -887,8 +887,8 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.8,
-            "value": 1.0,
+            "healthThreshold": 0.99,
+            "value": 0.5,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -898,8 +898,8 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.8,
-            "value": 1.2,
+            "healthThreshold": 0.99,
+            "value": 0.6,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -909,8 +909,8 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.8,
-            "value": 1.4,
+            "healthThreshold": 0.99,
+            "value": 0.7,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -920,8 +920,8 @@
           {
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
-            "healthThreshold": 0.8,
-            "value": 1.6,
+            "healthThreshold": 0.99,
+            "value": 0.8,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -992,7 +992,7 @@
           {
             "type": "high_mana_gear_attribute",
             "attribute": "the_vault:soul_chance",
-            "manaThreshold": 0.8,
+            "manaThreshold": 0.80,
             "value": 0.2,
             "effect": "the_vault:witchery",
             "learnPointCost": 1,
@@ -1003,7 +1003,7 @@
           {
             "type": "high_mana_gear_attribute",
             "attribute": "the_vault:soul_chance",
-            "manaThreshold": 0.8,
+            "manaThreshold": 0.80,
             "value": 0.4,
             "effect": "the_vault:witchery",
             "learnPointCost": 1,
@@ -1014,7 +1014,7 @@
           {
             "type": "high_mana_gear_attribute",
             "attribute": "the_vault:soul_chance",
-            "manaThreshold": 0.8,
+            "manaThreshold": 0.80,
             "value": 0.6,
             "effect": "the_vault:witchery",
             "learnPointCost": 1,
@@ -1025,7 +1025,7 @@
           {
             "type": "high_mana_gear_attribute",
             "attribute": "the_vault:soul_chance",
-            "manaThreshold": 0.8,
+            "manaThreshold": 0.80,
             "value": 0.8,
             "effect": "the_vault:witchery",
             "learnPointCost": 1,
@@ -1222,7 +1222,7 @@
             "tiers": [
               {
                 "type": "sweeping_lucky_hit",
-                "damagePercentage": 0.3,
+                "damagePercentage": 0.5,
                 "damageRange": 2.0,
                 "knockbackStrength": 0.0,
                 "learnPointCost": 2,
@@ -1231,7 +1231,7 @@
               },
               {
                 "type": "sweeping_lucky_hit",
-                "damagePercentage": 0.55,
+                "damagePercentage": 0.65,
                 "damageRange": 2.0,
                 "knockbackStrength": 0.0,
                 "learnPointCost": 2,
@@ -1776,7 +1776,7 @@
               "{ActiveEffects:[{\"forge:id\":\"the_vault:nova_dot\"}]}"
             ],
             "ability": "Nova_Dot",
-            "probability": 0.6,
+            "probability": 0.7,
             "learnPointCost": 2,
             "regretPointCost": 1,
             "unlockLevel": 0
@@ -1788,7 +1788,7 @@
               "{ActiveEffects:[{\"forge:id\":\"the_vault:nova_dot\"}]}"
             ],
             "ability": "Nova_Dot",
-            "probability": 0.75,
+            "probability": 0.9,
             "learnPointCost": 2,
             "regretPointCost": 1,
             "unlockLevel": 0

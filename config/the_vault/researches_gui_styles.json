@@ -6,7 +6,7 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/colossal_chest"
     },
-    "Sophisticated Storage": {
+    "Simple Storage Network": {
       "x": 60,
       "y": 0,
       "frameType": "RECTANGULAR",
@@ -139,12 +139,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/trashcans"
     },
-    "Farmers Delight": {
-      "x": 440,
-      "y": 200,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/farmers_delight"
-    },
     "Elevators": {
       "x": 390,
       "y": 160,
@@ -163,13 +157,13 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/conduit"
     },
-    "Construction Wand": {
+    "Building Gadgets": {
       "x": 10,
       "y": 240,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/building_gadgets"
     },
-    "Chunk Loaders": {
+    "Weirding Gadgets": {
       "x": 60,
       "y": 240,
       "frameType": "RECTANGULAR",
@@ -192,6 +186,12 @@
       "y": 240,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/easy_villagers"
+    },
+    "Easy Piglins": {
+      "x": 250,
+      "y": 240,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/easy_piglins"
     },
     "Botany Pots": {
       "x": 300,
@@ -219,15 +219,15 @@
     },
     "Phytogenic Insulator": {
       "x": 250,
-      "y": 240,
+      "y": 320,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/phytogenic_insulator"
     },
-    "RFTools Utility": {
-      "x": 390,
-      "y": 200,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/rftools_utility"
+    "Automatic Genius": {
+      "x": 60,
+      "y": 160,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/researches/automatic_genius"
     },
     "Dark Utilities": {
       "x": 110,
@@ -291,27 +291,25 @@
     },
     "Potions": {
       "x": 390,
-      "y": 280,
+      "y": 240,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/potion"
     },
     "Mixtures": {
       "x": 440,
-      "y": 280,
+      "y": 240,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mixture"
     },
     "Brews": {
       "x": 490,
-      "y": 280,
+      "y": 240,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/brew"
-    },
-    "Automatic Genius": {
-      "x": 60,
-      "y": 160,
-      "frameType": "STAR",
-      "icon": "the_vault:gui/researches/automatic_genius"
     }
+    
+    
+    
   }
+    
 }

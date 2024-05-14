@@ -1,13 +1,13 @@
 name = "Crafting Tweaks"
-filename = "craftingtweaks-forge-1.18.2-14.0.9.jar"
+filename = "craftingtweaks-forge-1.18.2-14.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b63536cc1df0335b51067951f583c336bdb04413"
+hash = "7aa8f5fda1fddecf04be0933c993bb886d26dec1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4939214
+file-id = 3830906
 project-id = 233071
