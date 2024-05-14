@@ -1,0 +1,7 @@
+name = "jewel-sorting"
+filename = "vault_hunters_jewel_sorting-2.4.1.jar"
+
+[download]
+url = "https://github.com/BONNePlayground/VaultHuntersJewelSorting/releases/download/2.4.1/vault_hunters_jewel_sorting-2.4.1.jar"
+hash-format = "sha256"
+hash = "1b972903957503a1dcb5a152ceb19abe28a1e88725092bff448fb8cbfb5bd63e"

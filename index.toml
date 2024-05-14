@@ -11644,6 +11644,11 @@ hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
 metafile = true
 
 [[files]]
+file = "mods/jewel-sorting.pw.toml"
+hash = "f0c3862822fe30027144b8e885f3f3fc1a620f541e5b7aedc7929717c3c2ad2e"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
@@ -11766,11 +11771,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
-metafile = true
-
-[[files]]
-file = "mods/neon-craft-2-mod.pw.toml"
-hash = "f1450ab736361bb4c232312b7144deded811c92ba8ec0740b1011937a9548b40"
 metafile = true
 
 [[files]]
@@ -12036,11 +12036,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "7487bc2e3dc8cc4e90bc34f3e0ae013b588c3b1414c9328c0e031b74b8ca6f92"
-metafile = true
-
-[[files]]
-file = "mods/vault-hunters-jewel-sorting.pw.toml"
-hash = "fbcf4d302abe2123facb725841a483e303b46ce6b662879c91ddb3d83893c8c3"
 metafile = true
 
 [[files]]
